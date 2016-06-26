@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Im an M.Sc. student at Tel-Aviv University's Deep Learning Lab. Im interested mainly in using deep learning to solve various NLP tasks. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[op@ofir.io](mailto:op@ofir.io)
