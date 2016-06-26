@@ -3,7 +3,7 @@ layout: post
 title: How to Start Learning Deep Learning
 ---
 
-Due to the recent achievements of artificial neural networks across many different tasks (such as [face recognition](https://research.facebook.com/publications/deepface-closing-the-gap-to-human-level-performance-in-face-verification/), [object detection](http://blogs.microsoft.com/next/2015/12/10/microsoft-researchers-win-imagenet-computer-vision-challenge/) and [Go](https://deepmind.com/alpha-go)) , deep learning has become extremely popular. This post aims to be a starting point for those interested in learning more about it.
+Due to the recent achievements of artificial neural networks across many different tasks (such as [face recognition](https://research.facebook.com/publications/deepface-closing-the-gap-to-human-level-performance-in-face-verification/), [object detection](http://blogs.microsoft.com/next/2015/12/10/microsoft-researchers-win-imagenet-computer-vision-challenge/) and [Go](https://deepmind.com/alpha-go)), deep learning has become extremely popular. This post aims to be a starting point for those interested in learning more about it.
 
 **If you already have a basic understanding of linear algebra, calculus, probability and programming:** I recommend starting with Stanford's [CS231n](http://cs231n.stanford.edu/). The course notes are comprehensive and written well. The slides for each lesson are also available, and even though the accompanying videos were removed from the official site, re-uploads are quite easy to find online.
 
