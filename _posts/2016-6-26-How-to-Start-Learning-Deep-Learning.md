@@ -25,4 +25,6 @@ Due to the recent achievements of artificial neural networks across many differe
  
 **Deep learning frameworks:** There are many frameworks for deep learning but the top three are probably [Tensorflow](http://tensorflow.org/) (by Google), [Torch](http://torch.ch/) (by Facebook) and [Theano](http://deeplearning.net/software/theano/) (by [MILA](https://mila.umontreal.ca/en/)). All of them are great, but if I had to select just one to recommend I'd say that Tensorflow is the best for beginners, mostly because of the great [tutorials](https://www.tensorflow.org/versions/r0.9/tutorials/index.html) avialable. 
 
+**If you'd like to train neural networks you should probably do it on a GPU.** You dont have to, but its much faster if you do. NVIDIA cards are the industry standard, and while most research labs use $1000 dollar graphics cards, there are a few affordable cards that can also get the work done. An even cheaper option is to rent a GPU-enabled instance from a cloud server provider like Amazon's EC2 (short guide [here](https://www.kaggle.com/c/facial-keypoints-detection/details/deep-learning-tutorial)).
+
 Good luck!
