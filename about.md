@@ -8,4 +8,4 @@ Hi! I'm Ofir, a graduate student at Tel-Aviv University's Deep Learning Lab. My 
 
 ### Contact me
 
-[op@ofir.io](mailto:op@ofir.io)
+[press@ofir.io](mailto:press@ofir.io)
