@@ -4,6 +4,11 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
+    <!-- mathjax -->
+  {% if page.mathjax %}
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
+  {% endif %}
 
   <div class="entry">
     {{ content }}
@@ -14,4 +19,19 @@ layout: default
   </div>
 
   {% include disqus.html %}
+  <script>
+    var scripts = document.getElementsByTagName("script");
+    for (var i = 0; i < scripts.length; i++) {
+      /* TODO: keep going after an individual parse error. */
+      var script = scripts[i];
+      if (script.type.match(/^math\/tex/)) {
+        var text = script.text === "" ? script.innerHTML : script.text;
+        var options = script.type.match(/mode\s*=\s*display/) ?
+                      {displayMode: true} : {};
+        script.insertAdjacentHTML("beforebegin",
+                                  katex.renderToString(text, options));
+      }
+    }
+    document.body.className += " math_finished";
+  </script>
 </article>
