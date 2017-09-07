@@ -10,7 +10,7 @@ Language models assign probability values to sequences of words. Those three wor
 <img src="/images/lm/keyboard.png">
 </div>  
 
-Language models are a fundamental part of many systems that attempt to solve natural language processing tasks such as machine translation and speech recognition. 
+Language models are a fundamental part of many systems that attempt to solve natural language processing tasks such as machine translation and speech recognition. Currently, all state of the art language models are neural networks. 
 
 The first part of this post presents a simple feedforward neural network that solves this task. In the second part of the post, we will improve the simple model by adding to it a recurrent neural network (RNN). The final part will discuss two recently proposed regularization techniques for improving RNN based language models.
 
@@ -23,7 +23,7 @@ To begin we will build a simple model that given a single word taken from some s
 <img src="/images/lm/w2v.svg">
 </div>
 
-We represent words using one-hot vectors: We decide on an arbitrary ordering of the words in the vocabulary and then represent the `n`th word as a vector of the size of the vocabulary (`N`), which is set to `0` everywhere except element `n` which is set to `1`. 
+We represent words using one-hot vectors: we decide on an arbitrary ordering of the words in the vocabulary and then represent the `n`th word as a vector of the size of the vocabulary (`N`), which is set to `0` everywhere except element `n` which is set to `1`. 
 
 The model can be separated into two components:
 * We start by **encoding** the input word. This is done by taking the one hot vector representing the input word (`c` in the diagram), and multiplying it by a matrix of size `(N,200)` which we call the input embedding (`U`). This multiplication results in a vector of size `200`, which is also referred to as a word embedding. This embedding is a dense representation of the current input word. This representation is both of a much smaller size than the one-hot vector representing the same word, and also has some other interesting properties. For example, while the distance between every two words represented by a one-hot vectors is always the same, these dense representations have the property that words that are close in meaning will have representations that are close in the embedding space.
@@ -39,7 +39,7 @@ We use stochastic gradient descent to update the model during training, and the 
 
 The metric used for reporting the performance of a language model is its perplexity on the test set. It is defined as- $$e^{-\frac{1}{N}\sum_{i=1}^{N} \ln p_{\text{target}_i}}  $$, where $$p_{\text{target}_i}$$ is the probability given by the model to the target word at iteration 'i'. Perplexity is a decreasing function of the average log probability that the model assigns to the target word at every iteration. We want to maximize the probability that we give to the target word at every iteration, which means that we want to minimize the perplexity (the optimal perplexity is `1`).  
 
-The perplexity for the simple model[^sg] is about `183` on the test set, which means that on average it assigns a probability of about $$ 0.005$$  to the target word in every iteration on the test set. Its much better than a naive model which would assign an equal probability to each word (which would assign a probability of $$\frac {1} {N} = \frac {1} {10,000} = 0.0001$$ to the correct word), but we can do much better.
+The perplexity for the simple model[^sg] is about `183` on the test set, which means that on average it assigns a probability of about $$ 0.005$$  to the target word in every iteration on the test set. It's much better than a naive model which would assign an equal probability to each word (which would assign a probability of $$\frac {1} {N} = \frac {1} {10,000} = 0.0001$$ to the correct word), but we can do much better.
 
  
 ## Using RNNs to improve performance
@@ -94,7 +94,7 @@ The input embedding and output embedding have a few properties in common. The fi
 
 The second property that they share in common is a bit more subtle. In the input embedding, words that have similar meanings are represented by similar vectors (similar in terms of [cosine similarity](https://en.wikipedia.org/wiki/Cosine_similarity#Definition)). This is because the model learns that it needs to react to similar words in a similar fashion (the words that follow the word "quick" are similar to the ones that follow the word "rapid").
 
-This also occurs in the output embedding. The output embedding receives a representation of the RNNs belief about the next output word (the output of the RNN) and has to transform this into a distribution. Given the representation from the RNN, the probability that the decoder assigns a word depends mostly on its representation in the output embedding (the probability is exactly the softmax normalized dot product of this representation and the output of the RNN). 
+This also occurs in the output embedding. The output embedding receives a representation of the RNNs belief about the next output word (the output of the RNN) and has to transform it into a distribution. Given the representation from the RNN, the probability that the decoder assigns a word depends mostly on its representation in the output embedding (the probability is exactly the softmax normalized dot product of this representation and the output of the RNN). 
 
 Because the model would like to, given the RNN output, assign similar probability values to similar words, similar words are represented by similar vectors. (Again, if, given a certain RNN output, the probability for the word "quick" is relatively high, we would also expect the probability for the word "rapid" to be relatively high).
 
@@ -106,7 +106,7 @@ These two similarities led us to recently propose a very simple method, [weight 
 
 The perplexity of the variational dropout RNN model on the test set is `75`. The same model achieves `24` perplexity on the training set. So the model performs much better on the training set then it does on the test set. This means that it has started to remember certain patterns or sequences that occur only in the train set and do not help the model to generalize to unseen data. One of the ways to counter this overfitting is to reduce the model's ability to 'memorize' by reducing its capacity (number of parameters). By applying weight tying, we remove a large number of parameters. 
 
-In addition to regularizing effect of weight tying we presented another reason for the improved results. We showed that the word representations in the output embedding are of much higher quality than the ones in the input embedding of untied language models. This is shown using embedding evaluation benchmarks such as [Simlex999](https://www.cl.cam.ac.uk/~fh295/simlex.html). In a weight tied model, because the tied embedding's parameter updates at each training iteration are very similar to the updates of the output embedding of the untied model, the tied embedding performs similarly to the output embedding of the untied model. So in the untied model, we use a single high quality embedding matrix in two places in the model. This contributes to the improved performance of the tied model[^paper]. 
+In addition to the regularizing effect of weight tying we presented another reason for the improved results. We showed that the word representations in the output embedding are of much higher quality than the ones in the input embedding of untied language models. This is shown using embedding evaluation benchmarks such as [Simlex999](https://www.cl.cam.ac.uk/~fh295/simlex.html). In a weight tied model, because the tied embedding's parameter updates at each training iteration are very similar to the updates of the output embedding of the untied model, the tied embedding performs similarly to the output embedding of the untied model. So in the tied model, we use a single high quality embedding matrix in two places in the model. This contributes to the improved performance of the tied model[^paper]. 
 
 
 To summarize, this post presented how to improve a very simple feedforward neural network language model, by first adding an RNN, and then adding variational dropout and weight tying to it.
