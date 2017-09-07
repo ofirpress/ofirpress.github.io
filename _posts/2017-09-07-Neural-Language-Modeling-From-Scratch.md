@@ -23,7 +23,7 @@ To begin we will build a simple model that given a single word taken from some s
 <img src="/images/lm/w2v.svg">
 </div>
 
-We represent words using one-hot vectors: We decide on an arbitrary ordering of the words in the vocabulary and then represent the `n`th word as a vector of the size of the vocabulary, which is set to `0` everywhere except element `n` which is set to `1`. One-hot vectors are one dimensional vectors of size `N`, where `N` is the size of the vocabulary. 
+We represent words using one-hot vectors: We decide on an arbitrary ordering of the words in the vocabulary and then represent the `n`th word as a vector of the size of the vocabulary (`N`), which is set to `0` everywhere except element `n` which is set to `1`. 
 
 The model can be separated into two components:
 * We start by **encoding** the input word. This is done by taking the one hot vector representing the input word (`c` in the diagram), and multiplying it by a matrix of size `(N,200)` which we call the input embedding (`U`). This multiplication results in a vector of size `200`, which is also referred to as a word embedding. This embedding is a dense representation of the current input word. This representation is both of a much smaller size than the one-hot vector representing the same word, and also has some other interesting properties. For example, while the distance between every two words represented by a one-hot vectors is always the same, these dense representations have the property that words that are close in meaning will have representations that are close in the embedding space.
