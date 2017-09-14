@@ -9,12 +9,16 @@ Hi! I'm Ofir, currently finishing my masters degree at Tel-Aviv University's Dee
 ### Publications
 
 **Language Generation with Recurrent Generative Adversarial Networks without Pre-training.**
+
 Ofir Press\*, Amir Bar\*, Ben Bogin\*, Jonathan Berant, Lior Wolf.  
+
 [[pre-print]](https://arxiv.org/abs/1706.01399) [[code]](https://github.com/amirbar/rnn.wgan)
 
-**Using the Output Embedding to Improve Language Models. **
+**Using the Output Embedding to Improve Language Models.**
 Ofir Press, Lior Wolf.
+
 EACL 2017. 
+
 [[paper]](http://aclweb.org/anthology/E/E17/E17-2025.pdf) [[code]](https://github.com/ofirpress/UsingTheOutputEmbedding)
 
 ### Contact me
