@@ -15,6 +15,7 @@ Ofir Press\*, Amir Bar\*, Ben Bogin\*, Jonathan Berant, Lior Wolf.
 [[pre-print]](https://arxiv.org/abs/1706.01399) [[code]](https://github.com/amirbar/rnn.wgan)
 
 **Using the Output Embedding to Improve Language Models.**
+
 Ofir Press, Lior Wolf.
 
 EACL 2017. 
