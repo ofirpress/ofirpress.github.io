@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neural Language Modeling From Scratch (Part 1)
+title: Neural Language Modeling From Scratch 
 mathjax: true
 ---
 
@@ -98,7 +98,7 @@ This also occurs in the output embedding. The output embedding receives a repres
 
 Given the RNN output at a certain time step, the model would like to assign similar probability values to similar words. Therefore, similar words are represented by similar vectors in the output embedding. (Again, if a certain RNN output results in a high probability for the word “quick", we expect that the probability for the word “rapid” will be high as well.)
 
-These two similarities led us to recently propose a very simple method, [weight tying](https://arxiv.org/abs/1608.05859), to lower the model's parameters and improve its performance. We simply tie its input and output embedding (i.e. we set U=V, meaning that we now have a single embedding matrix that is used both as an input and output embedding). This reduces the perplexity of the RNN model that uses dropout to `73`, and its size is reduced by more than 20%[^inan]. 
+These two similarities led us to recently propose a very simple method, [weight tying](http://aclweb.org/anthology/E/E17/E17-2025.pdf), to lower the model's parameters and improve its performance. We simply tie its input and output embedding (i.e. we set U=V, meaning that we now have a single embedding matrix that is used both as an input and output embedding). This reduces the perplexity of the RNN model that uses dropout to `73`, and its size is reduced by more than 20%[^inan]. 
 
 
 #### Why does weight tying work?
@@ -110,12 +110,8 @@ In addition to the regularizing effect of weight tying we presented another reas
 
 To summarize, this post presented how to improve a very simple feedforward neural network language model, by first adding an RNN, and then adding variational dropout and weight tying to it.
 
-In recent months, we've seen further improvements to the state of the art in RNN language modeling. The current state of the art results are held by two recent papers by [Melis et al.](https://arxiv.org/abs/1707.05589) and [Merity et al.](https://arxiv.org/abs/1708.02182). These models make use of most, if not all, of the methods shown above, and extend them by using better optimization techniques, new regularization methods, and by finding better hyperparameters for existing models. Some of these methods will be presented in part two of this guide.
+In recent months, we've seen further improvements to the state of the art in RNN language modeling. The current state of the art results are held by two recent papers by [Melis et al.](https://arxiv.org/abs/1707.05589) and [Merity et al.](https://arxiv.org/abs/1708.02182). These models make use of most, if not all, of the methods shown above, and extend them by using better optimization techniques, new regularization methods, and by finding better hyperparameters for existing models. 
 
-Feel free to ask questions in the comments below. 
-  
-  
-  
 ***
   
 
@@ -126,4 +122,4 @@ Feel free to ask questions in the comments below.
 [^inan]: In parallel to our work, an explanation for weight tying based on [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) was presented in [Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling](https://arxiv.org/abs/1611.01462).
 [^zaremba]: This model is the small model presented in [Recurrent Neural Network Regularization](https://arxiv.org/abs/1409.2329).
 [^zarembaLarge]: This is the large model from [Recurrent Neural Network Regularization](https://arxiv.org/abs/1409.2329). 
-[^paper]: Our [paper](https://arxiv.org/abs/1608.05859) explains this in detail.  
+[^paper]: Our [paper](http://aclweb.org/anthology/E/E17/E17-2025.pdf) explains this in detail.  
