@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-Hi! I'm Ofir, currently finishing my masters degree at Tel-Aviv University's Deep Learning Lab. My main focus is on using deep learning for natural language processing. The tasks which I spend the most time on are language modeling, translation and language generation. Previously, I completed my bachelor's degree in math \ computer science at Tel-Aviv University and worked as a software developer. 
+Hi! I'm Ofir, and I recently completed my masters degree at Tel-Aviv University's Deep Learning Lab. My main focus is on using deep learning for natural language processing. The tasks which I spend the most time on are language modeling, translation and language generation. Previously, I completed my bachelor's degree in math \ computer science at Tel-Aviv University and worked as a software developer. 
 
 ### Publications ([Google Scholar](https://scholar.google.co.il/citations?user=LeHa8psAAAAJ))
 
@@ -23,7 +23,7 @@ EACL 2017. <br>
 
 ### About this blog
 
-As of October 2017, this blog has been accessed by more than 40,000 people from 159 countries.
+As of December 2017, this blog has been accessed by more than 46,000 people from 159 countries.
 
 
 ### Contact me
