@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-I recently completed my masters degree at Tel-Aviv University were I worked on language modeling, translation and language generation with my advisor [Lior Wolf](www.cs.tau.ac.il/~wolf/) and [Jonathan Berant](www.cs.tau.ac.il/~joberant/). Previously, I completed my bachelor's degree in math and computer science at Tel-Aviv University and worked as a software developer. 
+I recently completed my masters degree at Tel-Aviv University were I worked on language modeling, translation and language generation with my advisor [Lior Wolf](http://www.cs.tau.ac.il/~wolf/) and [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/). Previously, I completed my bachelor's degree in math and computer science at Tel-Aviv University and worked as a software developer. 
 
 ### Publications ([Google Scholar](https://scholar.google.co.il/citations?user=LeHa8psAAAAJ))
 
