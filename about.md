@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-Hi! I'm Ofir, and I recently completed my masters degree at Tel-Aviv University's Deep Learning Lab. My main focus is on using deep learning for natural language processing. The tasks which I spend the most time on are language modeling, translation and language generation. Previously, I completed my bachelor's degree in math \ computer science at Tel-Aviv University and worked as a software developer. 
+I recently completed my masters degree at Tel-Aviv University were I worked on language modeling, translation and language generation with my advisor [Lior Wolf](www.cs.tau.ac.il/~wolf/) and [Jonathan Berant](www.cs.tau.ac.il/~joberant/). Previously, I completed my bachelor's degree in math and computer science at Tel-Aviv University and worked as a software developer. 
 
 ### Publications ([Google Scholar](https://scholar.google.co.il/citations?user=LeHa8psAAAAJ))
 
