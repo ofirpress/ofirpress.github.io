@@ -30,4 +30,4 @@ As of December 2017, this blog has been accessed by more than 46,000 people from
 
 ### Contact me
 
-[press@ofir.io](mailto:ofirp@uw.edu)
+[ofirp@uw.edu](mailto:ofirp@uw.edu)
