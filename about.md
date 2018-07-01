@@ -4,7 +4,8 @@ title:
 permalink: /about/
 ---
 
-I recently completed my masters degree at Tel-Aviv University were I worked on language modeling, translation and language generation with my advisor [Lior Wolf](http://www.cs.tau.ac.il/~wolf/) and [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/). Previously, I completed my bachelor's degree in math and computer science at Tel-Aviv University and worked as a software developer. 
+I am a graduate student in the Paul G. Allen School for Computer Science & Engineering at the University of Washington. 
+Previously, I completed my bachelor's and master's degree in computer science at Tel-Aviv University and worked as a software developer. 
 
 ### Publications ([Google Scholar](https://scholar.google.co.il/citations?user=LeHa8psAAAAJ))
 
@@ -28,4 +29,4 @@ As of December 2017, this blog has been accessed by more than 46,000 people from
 
 ### Contact me
 
-[press@ofir.io](mailto:press@ofir.io)
+[press@ofir.io](mailto:ofirp@uw.edu)
