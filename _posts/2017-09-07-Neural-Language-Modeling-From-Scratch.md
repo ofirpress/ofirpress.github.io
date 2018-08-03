@@ -57,7 +57,7 @@ Now we have a model that at each time step gets not only the current word repres
 
 As expected, performance improves and the perplexity of this model on the test set is about `114`. An implementation of this model[^zaremba], along with a detailed explanation, is available in [Tensorflow](https://www.tensorflow.org/tutorials/recurrent).
 
-## The importance of regularization. 
+## The importance of regularization
 `114` perplexity is good but we can still do much better. In this section I'll present some recent advances that improve the performance of RNN based language models. 
 
 ### Dropout
