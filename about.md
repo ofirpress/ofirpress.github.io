@@ -8,7 +8,7 @@ I am a graduate student in the Paul G. Allen School for Computer Science & Engin
 
 Previously, I completed my bachelor's and master's degrees in computer science at Tel-Aviv University and worked as a software developer. 
 
-### Publications ([Google Scholar](https://scholar.google.co.il/citations?user=LeHa8psAAAAJ))
+### Publications ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
 
 [Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/abs/1706.01399)  <br>
 _Ofir Press\*, Amir Bar\*, Ben Bogin\*, Jonathan Berant, Lior Wolf_  <br>
