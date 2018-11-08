@@ -10,6 +10,13 @@ Previously, I completed my bachelor's and master's degrees in computer science a
 
 ### Publications ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
 
+[You May Not Need Attention](https://arxiv.org/abs/1810.13409)  <br>
+_Ofir Press, Noah A. Smith_  <br>
+Preprint <br>
+[[paper]](https://arxiv.org/abs/1810.13409)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention) <br>
+
+
+
 [Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/abs/1706.01399)  <br>
 _Ofir Press\*, Amir Bar\*, Ben Bogin\*, Jonathan Berant, Lior Wolf_  <br>
 1st Workshop on Learning to Generate Natural Language at ICML 2017 <br>
@@ -25,7 +32,7 @@ EACL 2017 <br>
 
 ### About this blog
 
-As of December 2017, this blog has been accessed by more than 46,000 people from 159 countries.
+As of November 2018, this site has been accessed by more than 52,000 people from 167 countries.
 
 
 ### Contact me
