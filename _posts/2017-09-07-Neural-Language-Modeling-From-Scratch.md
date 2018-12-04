@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neural Language Modeling From Scratch 
+title: An Introduction To Neural Language Models
 mathjax: true
 ---
 
