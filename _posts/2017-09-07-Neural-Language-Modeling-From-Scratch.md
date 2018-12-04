@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Introduction To Neural Language Models
+title: An Introduction to Neural Language Models
 mathjax: true
 ---
 
