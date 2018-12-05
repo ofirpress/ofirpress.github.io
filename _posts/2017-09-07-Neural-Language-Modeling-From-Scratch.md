@@ -10,7 +10,7 @@ Language models assign probability values to sequences of words. Those three wor
 <img src="/images/lm/keyboard.png">
 </div>  
 
-Language models are a fundamental part of many systems that attempt to solve natural language processing tasks such as machine translation and speech recognition. Currently, all state of the art language models are neural networks. 
+Neural language models are a fundamental part of many systems that attempt to solve natural language processing tasks such as machine translation and speech recognition. Currently, all state of the art language models are neural networks. 
 
 The first part of this post presents a simple feedforward neural network that solves this task. In the second part of the post, we will improve the simple model by adding to it a recurrent neural network (RNN). The final part will discuss two recently proposed regularization techniques for improving RNN based language models.
 
