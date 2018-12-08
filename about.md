@@ -30,7 +30,7 @@ EACL 2017 <br>
 
 
 
-### About this blog
+### ofir.io
 
 As of November 2018, this site has been accessed by more than 52,000 people from 167 countries.
 
