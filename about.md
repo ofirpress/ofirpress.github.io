@@ -37,4 +37,4 @@ As of November 2018, this site has been accessed by more than 52,000 people from
 
 ### Contact me
 
-[ofirp@uw.edu](mailto:ofirp@uw.edu)
+[ofirp@cs.washington.edu](mailto:ofirp@cs.washington.edu)
