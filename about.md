@@ -4,9 +4,11 @@ title:
 permalink: /about/
 ---
 
-I am a graduate student in the Paul G. Allen School for Computer Science & Engineering at the University of Washington. 
+I am a graduate student in the Paul G. Allen School for Computer Science & Engineering at the University of Washington, where I am very fortunate to be advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/). 
 
 Previously, I completed my bachelor's and master's degrees in computer science at Tel-Aviv University and worked as a software developer. 
+
+In my research I try to find simple methods that make neural language and translation models faster, smaller and more accurate. 
 
 ### Publications ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
 
