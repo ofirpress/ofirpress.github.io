@@ -15,7 +15,7 @@ In my research I try to find simple methods that make neural language and transl
 [You May Not Need Attention](https://arxiv.org/abs/1810.13409)  <br>
 _Ofir Press, Noah A. Smith_  <br>
 Preprint <br>
-[[paper]](https://arxiv.org/abs/1810.13409)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention) [[bib]](https://github.com/ofirpress/YouMayNotNeedAttention#reference) <br> [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/1810.13409&a=ofirpress)
+[[paper]](https://arxiv.org/abs/1810.13409)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/1810.13409&a=ofirpress) [[bib]](https://github.com/ofirpress/YouMayNotNeedAttention#reference)  <br> 
 
 
 
