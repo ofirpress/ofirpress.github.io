@@ -15,20 +15,20 @@ In my research I try to find simple methods that make neural language and transl
 [You May Not Need Attention](https://arxiv.org/abs/1810.13409)  <br>
 _Ofir Press, Noah A. Smith_  <br>
 Preprint <br>
-[[paper]](https://arxiv.org/abs/1810.13409)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention) [[bib]](https://github.com/ofirpress/YouMayNotNeedAttention#reference) <br>
+[[paper]](https://arxiv.org/abs/1810.13409)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention) [[bib]](https://github.com/ofirpress/YouMayNotNeedAttention#reference) <br> [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/1810.13409&a=ofirpress)
 
 
 
 [Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/abs/1706.01399)  <br>
 _Ofir Press\*, Amir Bar\*, Ben Bogin\*, Jonathan Berant, Lior Wolf_  <br>
 1st Workshop on Learning to Generate Natural Language at ICML 2017 <br>
-[[paper]](https://arxiv.org/abs/1706.01399)  [[code]](https://github.com/amirbar/rnn.wgan) [[summary]](http://www.shortscience.org/paper?bibtexKey=journals/corr/PressBBBW17#ofirpress) [[bib]](https://dblp.org/rec/bibtex/journals/corr/PressBBBW17) <br> 
+[[paper]](https://arxiv.org/abs/1706.01399)  [[code]](https://github.com/amirbar/rnn.wgan) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/PressBBBW17&a=ofirpress) [[bib]](https://dblp.org/rec/bibtex/journals/corr/PressBBBW17) <br> 
 
 
 [Using the Output Embedding to Improve Language Models](http://aclweb.org/anthology/E/E17/E17-2025.pdf) <br>
 _Ofir Press, Lior Wolf_ <br>
 EACL 2017 <br>
-[[paper]](http://aclweb.org/anthology/E/E17/E17-2025.pdf)  [[code]](https://github.com/ofirpress/UsingTheOutputEmbedding) [[blog post]](http://ofir.io/Neural-Language-Modeling-From-Scratch/) [[summary]](http://www.shortscience.org/paper?bibtexKey=10.18653/v1/e17-2025#ofirpress) [[bib]](http://aclweb.org/anthology/E/E17/E17-2025.bib) <br> 
+[[paper]](http://aclweb.org/anthology/E/E17/E17-2025.pdf)  [[code]](https://github.com/ofirpress/UsingTheOutputEmbedding) [[blog post]](http://ofir.io/Neural-Language-Modeling-From-Scratch/) [[summary]](https://www.shortscience.org/paper?bibtexKey=10.18653/v1/e17-2025&a=ofirpress) [[bib]](http://aclweb.org/anthology/E/E17/E17-2025.bib) <br> 
 
 
 
