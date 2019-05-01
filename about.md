@@ -25,10 +25,10 @@ _Ofir Press\*, Amir Bar\*, Ben Bogin\*, Jonathan Berant, Lior Wolf_  <br>
 [[paper]](https://arxiv.org/abs/1706.01399)  [[code]](https://github.com/amirbar/rnn.wgan) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/PressBBBW17&a=ofirpress) [[bib]](https://dblp.org/rec/bibtex/journals/corr/PressBBBW17) <br> 
 
 
-[Using the Output Embedding to Improve Language Models](http://aclweb.org/anthology/E/E17/E17-2025.pdf) <br>
+[Using the Output Embedding to Improve Language Models](https://www.aclweb.org/anthology/E17-2025) <br>
 _Ofir Press, Lior Wolf_ <br>
 EACL 2017 <br>
-[[paper]](http://aclweb.org/anthology/E/E17/E17-2025.pdf)  [[code]](https://github.com/ofirpress/UsingTheOutputEmbedding) [[blog post]](http://ofir.io/Neural-Language-Modeling-From-Scratch/) [[summary]](https://www.shortscience.org/paper?bibtexKey=10.18653/v1/e17-2025&a=ofirpress) [[bib]](http://aclweb.org/anthology/E/E17/E17-2025.bib) <br> 
+[[paper]](https://www.aclweb.org/anthology/E17-2025)  [[code]](https://github.com/ofirpress/UsingTheOutputEmbedding) [[blog post]](http://ofir.io/Neural-Language-Modeling-From-Scratch/) [[summary]](https://www.shortscience.org/paper?bibtexKey=10.18653/v1/e17-2025&a=ofirpress) [[bib]](http://aclweb.org/anthology/E/E17/E17-2025.bib) <br> 
 
 
 
