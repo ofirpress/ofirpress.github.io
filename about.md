@@ -13,22 +13,22 @@ In my research I try to find simple methods that make neural language and transl
 ### Publications ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
 
 [You May Not Need Attention](https://arxiv.org/abs/1810.13409)  <br>
-_Ofir Press, Noah A. Smith_  <br>
+Ofir Press, Noah A. Smith  <br>
 Preprint <br>
 [[paper]](https://arxiv.org/abs/1810.13409)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/1810.13409&a=ofirpress) [[bib]](https://github.com/ofirpress/YouMayNotNeedAttention#reference)  <br> 
 
 
 
 [Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/abs/1706.01399)  <br>
-_Ofir Press\*, Amir Bar\*, Ben Bogin\*, Jonathan Berant, Lior Wolf_  <br>
+Ofir Press\*, Amir Bar\*, Ben Bogin\*, Jonathan Berant, Lior Wolf  <br>
 1st Workshop on Learning to Generate Natural Language at ICML 2017 <br>
 [[paper]](https://arxiv.org/abs/1706.01399)  [[code]](https://github.com/amirbar/rnn.wgan) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/PressBBBW17&a=ofirpress) [[bib]](https://dblp.org/rec/bibtex/journals/corr/PressBBBW17) <br> 
 
 
 [Using the Output Embedding to Improve Language Models](https://www.aclweb.org/anthology/E17-2025) <br>
-_Ofir Press, Lior Wolf_ <br>
+Ofir Press, Lior Wolf <br>
 EACL 2017 <br>
-[[paper]](https://www.aclweb.org/anthology/E17-2025)  [[code]](https://github.com/ofirpress/UsingTheOutputEmbedding) [[blog post]](http://ofir.io/Neural-Language-Modeling-From-Scratch/) [[summary]](https://www.shortscience.org/paper?bibtexKey=10.18653/v1/e17-2025&a=ofirpress) [[bib]](http://aclweb.org/anthology/E/E17/E17-2025.bib) <br> 
+[[paper]](https://www.aclweb.org/anthology/E17-2025)  [[code]](https://github.com/ofirpress/UsingTheOutputEmbedding) [[blog post]](http://ofir.io/Neural-Language-Modeling-From-Scratch/) [[summary]](https://www.shortscience.org/paper?bibtexKey=10.18653/v1/e17-2025&a=ofirpress) [[bib]](https://www.aclweb.org/anthology/papers/E/E17/E17-2025.bib) <br> 
 
 
 
