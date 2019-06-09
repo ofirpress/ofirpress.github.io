@@ -10,7 +10,13 @@ Previously, I completed my Bachelor's and Master's degrees in Computer Science a
 
 In my research I try to find simple methods that make neural language and translation models faster, smaller and more accurate. 
 
-### Publications ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
+### Papers ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
+
+[Partially Shuffling the Training Data to Improve Language Models](https://arxiv.org/abs/1903.04167) <br>
+Ofir Press <br>
+Technical Report <br>
+
+[[paper]](https://arxiv.org/abs/1903.04167) [[code]](https://github.com/ofirpress/PartialShuffle) [[bib]](https://github.com/ofirpress/PartialShuffle#reference)
 
 [You May Not Need Attention](https://arxiv.org/abs/1810.13409)  <br>
 Ofir Press, Noah A. Smith  <br>
@@ -18,11 +24,10 @@ Preprint <br>
 [[paper]](https://arxiv.org/abs/1810.13409)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/1810.13409&a=ofirpress) [[bib]](https://github.com/ofirpress/YouMayNotNeedAttention#reference)  <br> 
 
 
-
 [Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/abs/1706.01399)  <br>
 Ofir Press\*, Amir Bar\*, Ben Bogin\*, Jonathan Berant, Lior Wolf  <br>
 1st Workshop on Learning to Generate Natural Language at ICML 2017 <br>
-[[paper]](https://arxiv.org/abs/1706.01399)  [[code]](https://github.com/amirbar/rnn.wgan) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/PressBBBW17&a=ofirpress) [[bib]](https://dblp.org/rec/bibtex/journals/corr/PressBBBW17) <br> 
+[[paper]](https://arxiv.org/abs/1706.01399)  [[code]](https://github.com/amirbar/rnn.wgan) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/PressBBBW17&a=ofirpress) [[bib]](https://github.com/amirbar/rnn.wgan#reference) <br> 
 
 
 [Using the Output Embedding to Improve Language Models](https://www.aclweb.org/anthology/E17-2025) <br>
