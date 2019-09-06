@@ -33,7 +33,7 @@ Ofir Press\*, Amir Bar\*, Ben Bogin\*, Jonathan Berant, Lior Wolf  <br>
 [Using the Output Embedding to Improve Language Models](https://www.aclweb.org/anthology/E17-2025) <br>
 Ofir Press, Lior Wolf <br>
 EACL 2017 <br>
-<span style="color:DarkRed">Introduced the **Weight Tying** method which is now used in BERT and many other state of the art language & translation models.</span>
+<span style="color:DarkRed">Introduced the **Weight Tying** method which is now used in BERT and many other state of the art language & translation models.</span> <br>
 [[paper]](https://www.aclweb.org/anthology/E17-2025)  [[code]](https://github.com/ofirpress/UsingTheOutputEmbedding) [[blog post]](http://ofir.io/Neural-Language-Modeling-From-Scratch/) [[summary]](https://www.shortscience.org/paper?bibtexKey=10.18653/v1/e17-2025&a=ofirpress) [[bib]](https://www.aclweb.org/anthology/papers/E/E17/E17-2025.bib) <br> 
 
 
