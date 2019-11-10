@@ -12,10 +12,15 @@ Previously, I completed my Bachelor's and Master's degrees in Computer Science a
 
 ### Papers ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
 
+[Improving Transformer Models by Reordering their Sublayers](https://ofir.io/sandwich_transformer.pdf) <br>
+Ofir Press, Noah A. Smith, Omer Levy <br>
+Preprint <br>
+[[paper]](https://ofir.io/sandwich_transformer.pdf) <br>
+
 [Partially Shuffling the Training Data to Improve Language Models](https://arxiv.org/abs/1903.04167) <br>
 Ofir Press <br>
 Technical Report <br>
-[[paper]](https://arxiv.org/abs/1903.04167) [[code]](https://github.com/ofirpress/PartialShuffle) [[bib]](https://github.com/ofirpress/PartialShuffle#reference)
+[[paper]](https://arxiv.org/abs/1903.04167) [[code]](https://github.com/ofirpress/PartialShuffle) [[bib]](https://github.com/ofirpress/PartialShuffle#reference) <br>
 
 
 [You May Not Need Attention](https://arxiv.org/abs/1810.13409)  <br>
