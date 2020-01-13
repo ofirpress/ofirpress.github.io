@@ -8,7 +8,11 @@ I am a graduate student in the Paul G. Allen School for Computer Science & Engin
 
 In my research I try to better understand the building blocks of neural NLP—the embedding/softmax layers, and the LSTM and self-attention modules—in order to make them faster, smaller, and more accurate. 
 
-Previously, I completed my Bachelor's and Master's degrees in Computer Science at Tel Aviv University and briefly worked as a software developer. 
+In the summer of 2019 I interened at Facebook AI Research with [Omer Levy](https://levyomer.wordpress.com/). 
+
+Previously, I completed my Bachelor's and Master's degrees in Computer Science at Tel Aviv University (where I was advised by [Lior Wolf](http://www.cs.tau.ac.il/~wolf/) and also worked with [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/)) and briefly worked as a software developer. 
+
+My brother [Ori Press](https://oripress.com/) is a computer vision researcher. 
 
 ### Papers ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
 
