@@ -47,7 +47,7 @@ EACL 2017 <br>
 
 
 <!-- ### Service
-Reviewer: NeuralGen 2019, NAACL 2019 (secondary reviewer), EMNLP 2019 (secondary reviewer)
+Reviewer: NeuralGen 2019, NAACL 2019 (secondary reviewer), EMNLP 2019 (secondary reviewer), ACL 2020 (secondary reviewer)
 
 -->
 
