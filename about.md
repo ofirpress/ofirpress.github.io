@@ -18,7 +18,7 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 
 [Improving Transformer Models by Reordering their Sublayers](https://ofir.io/sandwich_transformer.pdf) <br>
 Ofir Press, Noah A. Smith, Omer Levy <br>
-Preprint <br>
+ACL 2020 <br>
 [[paper]](https://ofir.io/sandwich_transformer.pdf) <br>
 
 [Partially Shuffling the Training Data to Improve Language Models](https://arxiv.org/abs/1903.04167) <br>
