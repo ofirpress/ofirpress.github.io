@@ -19,7 +19,7 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 [Improving Transformer Models by Reordering their Sublayers](https://ofir.io/sandwich_transformer.pdf) <br>
 Ofir Press, Noah A. Smith, Omer Levy <br>
 ACL 2020 <br>
-[[paper]](https://ofir.io/sandwich_transformer.pdf) [[summary]](https://ofir.io/Improving-Transformer-Models-by-Reordering-their-Sublayers/) [[code]](https://github.com/ofirpress/sandwich_transformer) [[video]](https://www.youtube.com/watch?v=rFuuGEj3AhU)  <br>
+[[paper]](https://ofir.io/sandwich_transformer.pdf) [[summary]](https://ofir.io/Improving-Transformer-Models-by-Reordering-their-Sublayers/) [[video]](https://www.youtube.com/watch?v=rFuuGEj3AhU) [[code]](https://github.com/ofirpress/sandwich_transformer)   <br>
 
 [Partially Shuffling the Training Data to Improve Language Models](https://arxiv.org/abs/1903.04167) <br>
 Ofir Press <br>
@@ -30,20 +30,20 @@ Technical Report <br>
 [You May Not Need Attention](https://arxiv.org/abs/1810.13409)  <br>
 Ofir Press, Noah A. Smith  <br>
 Preprint <br>
-[[paper]](https://arxiv.org/abs/1810.13409)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/1810.13409&a=ofirpress) [[bib]](https://github.com/ofirpress/YouMayNotNeedAttention#reference)  <br> 
+[[paper]](https://arxiv.org/abs/1810.13409) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/1810.13409&a=ofirpress)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention)  [[bib]](https://github.com/ofirpress/YouMayNotNeedAttention#reference)  <br> 
 
 
 [Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/abs/1706.01399)  <br>
 Ofir Press\*, Amir Bar\*, Ben Bogin\*, Jonathan Berant, Lior Wolf  <br>
 1st Workshop on Learning to Generate Natural Language at ICML 2017 <br>
-[[paper]](https://arxiv.org/abs/1706.01399)  [[code]](https://github.com/amirbar/rnn.wgan) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/PressBBBW17&a=ofirpress) [[bib]](https://github.com/amirbar/rnn.wgan#reference) <br> 
+[[paper]](https://arxiv.org/abs/1706.01399) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/PressBBBW17&a=ofirpress) [[code]](https://github.com/amirbar/rnn.wgan)  [[bib]](https://github.com/amirbar/rnn.wgan#reference) <br> 
 
 
 [Using the Output Embedding to Improve Language Models](https://www.aclweb.org/anthology/E17-2025) <br>
 Ofir Press, Lior Wolf <br>
 EACL 2017 <br>
 <span style="color:DarkRed">Introduced the **Weight Tying** method which is now used in BERT and many other state of the art language & translation models.</span> <br>
-[[paper]](https://www.aclweb.org/anthology/E17-2025.pdf)  [[code]](https://github.com/ofirpress/UsingTheOutputEmbedding) [[blog post]](http://ofir.io/Neural-Language-Modeling-From-Scratch/) [[summary]](https://www.shortscience.org/paper?bibtexKey=10.18653/v1/e17-2025&a=ofirpress) [[bib]](https://www.aclweb.org/anthology/E17-2025.bib) <br> 
+[[paper]](https://www.aclweb.org/anthology/E17-2025.pdf) [[summary]](https://www.shortscience.org/paper?bibtexKey=10.18653/v1/e17-2025&a=ofirpress) [[blog post]](http://ofir.io/Neural-Language-Modeling-From-Scratch/)  [[code]](https://github.com/ofirpress/UsingTheOutputEmbedding)  [[bib]](https://www.aclweb.org/anthology/E17-2025.bib) <br> 
 
 
 <!-- ### Service
