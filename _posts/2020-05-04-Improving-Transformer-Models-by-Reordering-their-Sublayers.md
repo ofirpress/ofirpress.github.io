@@ -13,7 +13,7 @@ Each transformer layer consists of a self-attention sublayer (**s**) followed by
 
 To the best of our knowledge, there is no reason to expect this particular pattern to be optimal.
 
-To try and find a better sublayer ordering pattern, we generated a small amount of random transformer models (examples bellow), trained them on a language modelig benchmark, and then analyzed the results to try and understand what the succesful models had in common. 
+To try and find a better sublayer ordering pattern, we generated a small amount of random transformer models (examples below), trained them on a language modelig benchmark, and then analyzed the results to try and understand what the succesful models had in common. 
 Based on this analysis we manually designed a new transformer ordering pattern (the sandwich transformer) that beats the baseline interleaved ordering on multiple benchmarks. 
 
 As previously mentioned, we first generate random transformer models, varying the number of each type of sublayer, and their ordering, while keeping the number of parameters constant. Here are a few of these randomly generated models:
