@@ -46,3 +46,5 @@ Finally, we demonstrate that even though the sandwich transformer is motivated b
 We conjecture that tuning transformer reorderings to specific tasks could yield even larger gains, and that further exploration of the ordering space may provide universally beneficial patterns.
 
 The paper is available [here](https://ofir.io/sandwich_transformer.pdf). We also have a video presentation available [here](https://www.youtube.com/watch?v=rFuuGEj3AhU). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rFuuGEj3AhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
