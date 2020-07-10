@@ -19,7 +19,7 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 [Improving Transformer Models by Reordering their Sublayers](https://ofir.io/sandwich_transformer.pdf) <br>
 Ofir Press, Noah A. Smith, Omer Levy <br>
 ACL 2020 <br>
-[[paper]](https://ofir.io/sandwich_transformer.pdf) [[summary]](https://ofir.io/Improving-Transformer-Models-by-Reordering-their-Sublayers/) [[video]](https://www.youtube.com/watch?v=rFuuGEj3AhU) [[code]](https://github.com/ofirpress/sandwich_transformer)   <br>
+[[paper]](https://www.aclweb.org/anthology/2020.acl-main.270.pdf) [[summary]](https://ofir.io/Improving-Transformer-Models-by-Reordering-their-Sublayers/) [[ACL video (summarizes the important bits, 12 min)]](https://slideslive.com/38928925/improving-transformer-models-by-reordering-their-sublayers) [[video (detailed overview, 35 min)]](https://www.youtube.com/watch?v=rFuuGEj3AhU) [[code]](https://github.com/ofirpress/sandwich_transformer)  [[bib]](https://www.aclweb.org/anthology/2020.acl-main.270.bib) <br>
 
 [Partially Shuffling the Training Data to Improve Language Models](https://arxiv.org/abs/1903.04167) <br>
 Ofir Press <br>
