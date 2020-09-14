@@ -46,15 +46,15 @@ Finally, we demonstrate that even though the sandwich transformer is motivated b
 We conjecture that tuning transformer reorderings to specific tasks could yield even larger gains, and that further exploration of the ordering space may provide universally beneficial patterns.
 
 ### Other conclusions and insights: 
-* The transformer layer is not the smallest indivisible unit in NLP. The self-attention or feedforward sublayers can each function independently.
-* The transformer architecture is quite robust to sublayer order changes. A non-insignificant amount of the random architectures that we tried performed just as well (and sometimes better than) the baseline. 
+* The transformer layer is not the smallest indivisible unit. The self-attention or feedforward sublayers can each function independently.
+* The transformer architecture is quite robust to sublayer order changes. A non-insignificant amount of the random orderings that we trained performed just as well (and sometimes better than) the baseline. 
 * The 'extreme standwich' ordering s<sup>16</sup>f<sup>16</sup> (shown below) works almost as well as the baseline on WikiText-103. 
 <div class="imgcap">
 <img src="/images/sandwich/s16f16.png">
 </div>
 * The optimal transformer ordering is not identical across different datasets. For example, the best sandwiching coefficient for WikiText-103 is 6, but the best coefficient for the Toronto Book Corpus language modeling dataset is 7. For character level language modeling the optimal sandwiching coefficients were also different. 
 
-
+<br/>
 
 The paper is available [here](https://ofir.io/sandwich_transformer.pdf). We also have a video presentation available [here](https://www.youtube.com/watch?v=rFuuGEj3AhU). 
 
