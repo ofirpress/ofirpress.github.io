@@ -15,6 +15,10 @@ Previously, I completed my Bachelor's and Master's degrees in Computer Science a
 
 My brother [Ori Press](https://oripress.com/) is a computer vision researcher. 
 
+### Contact me
+
+[ofirp@cs.washington.edu](mailto:ofirp@cs.washington.edu)
+
 ### Papers ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
 
 [Shortformer: Better Language Modeling using Shorter Inputs](https://arxiv.org/abs/2012.15832) <br>
@@ -53,16 +57,20 @@ EACL 2017 <br>
 [[paper]](https://www.aclweb.org/anthology/E17-2025.pdf) [[summary]](https://www.shortscience.org/paper?bibtexKey=10.18653/v1/e17-2025&a=ofirpress) [[blog post]](https://ofir.io/Neural-Language-Modeling-From-Scratch/#weight-tying)  [[code]](https://github.com/ofirpress/UsingTheOutputEmbedding)  [[bib]](https://www.aclweb.org/anthology/E17-2025.bib) <br> 
 
 
+
 <!-- ### Service
-Reviewer: NeuralGen 2019, NAACL 2019 (secondary reviewer), EMNLP 2019 (secondary reviewer), ACL 2020 (secondary reviewer), SustaiNLP 2020, EACL 2021
+Reviewer: 
+NAACL: 2019 (secondary reviewer), 2021
+EMNLP: 2019 (secondary reviewer)
+ACL: 2020 (secondary reviewer) 
+EACL: 2021
+Workshops: NeuralGen 2019, SustaiNLP 2020
 
 -->
-
+<!--
 ### ofir.io
 
-As of November 2018, this site has been accessed by more than 52,000 people from 167 countries.
+As of January 2021, this site has been accessed by more than 60,000 people from 169 countries.
+-->
 
 
-### Contact me
-
-[ofirp@cs.washington.edu](mailto:ofirp@cs.washington.edu)
