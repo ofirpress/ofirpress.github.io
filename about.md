@@ -7,6 +7,10 @@ permalink: /about/
 I am a graduate student in the Paul G. Allen School for Computer Science & Engineering at the University of Washington, where I am very fortunate to be advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/). 
 In addition, I am currently a visiting researcher at Facebook AI Research in Seattle. 
 
+<div class="imgcap">
+<img src="/images/me.jpg" width="403" height="302">
+</div>
+
 In my research I try to better understand the building blocks of neural NLP—the embedding/softmax layers, and the LSTM and self-attention modules—in order to make them faster, smaller, and more accurate. 
 
 In the summer of 2019 I interened at Facebook AI Research with [Omer Levy](https://levyomer.wordpress.com/). 
