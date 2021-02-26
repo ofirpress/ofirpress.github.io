@@ -36,11 +36,6 @@ ACL 2020 <br>
 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.270.pdf) [[summary]](https://ofir.io/Improving-Transformer-Models-by-Reordering-their-Sublayers/) [[code]](https://github.com/ofirpress/sandwich_transformer)  [[bib]](https://www.aclweb.org/anthology/2020.acl-main.270.bib) <br>
 [[ACL video (summarizes the important bits, 12 min)]](https://slideslive.com/38928925/improving-transformer-models-by-reordering-their-sublayers) [[video (detailed overview, 35 min)]](https://www.youtube.com/watch?v=rFuuGEj3AhU)  <br>
 
-[Partially Shuffling the Training Data to Improve Language Models](https://arxiv.org/abs/1903.04167) <br>
-Ofir Press <br>
-Technical Report <br>
-[[paper]](https://arxiv.org/abs/1903.04167) [[code]](https://github.com/ofirpress/PartialShuffle) [[bib]](https://github.com/ofirpress/PartialShuffle#reference) <br>
-
 
 [You May Not Need Attention](https://arxiv.org/abs/1810.13409)  <br>
 Ofir Press, Noah A. Smith  <br>
@@ -61,6 +56,11 @@ EACL 2017 <br>
 [[paper]](https://www.aclweb.org/anthology/E17-2025.pdf) [[summary]](https://www.shortscience.org/paper?bibtexKey=10.18653/v1/e17-2025&a=ofirpress) [[blog post]](https://ofir.io/Neural-Language-Modeling-From-Scratch/#weight-tying)  [[code]](https://github.com/ofirpress/UsingTheOutputEmbedding)  [[bib]](https://www.aclweb.org/anthology/E17-2025.bib) <br> 
 
 
+#### Technical Reports
+
+[Partially Shuffling the Training Data to Improve Language Models](https://arxiv.org/abs/1903.04167) <br>
+Ofir Press <br>
+[[paper]](https://arxiv.org/abs/1903.04167) [[code]](https://github.com/ofirpress/PartialShuffle) [[bib]](https://github.com/ofirpress/PartialShuffle#reference) <br>
 
 <!-- ### Service
 Reviewer: 
@@ -73,7 +73,6 @@ Workshops: NeuralGen 2019, SustaiNLP 2020
 -->
 <!--
 ### ofir.io
-
 As of January 2021, this site has been accessed by more than 60,000 people from 169 countries.
 -->
 
