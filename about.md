@@ -66,7 +66,7 @@ Ofir Press <br>
 Reviewer: 
 NAACL: 2019 (secondary reviewer), 2021
 EMNLP: 2019 (secondary reviewer)
-ACL: 2020 (secondary reviewer) 
+ACL: 2020 (secondary reviewer), 2021
 EACL: 2021
 Workshops: NeuralGen 2019, SustaiNLP 2020
 
