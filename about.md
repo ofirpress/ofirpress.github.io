@@ -28,7 +28,7 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 [Shortformer: Better Language Modeling using Shorter Inputs](https://arxiv.org/abs/2012.15832) <br>
 Ofir Press, Noah A. Smith, Mike Lewis <br>
 ACL 2021 <br>
-[[paper]](https://arxiv.org/pdf/2012.15832.pdf) [[code]](https://github.com/ofirpress/shortformer) <br>
+[[paper]](https://arxiv.org/pdf/2012.15832.pdf) [[code]](https://github.com/ofirpress/shortformer) [[video]](https://www.youtube.com/watch?v=lsJyvxO_27A&t=555s)<br>
 
 [Improving Transformer Models by Reordering their Sublayers](https://www.aclweb.org/anthology/2020.acl-main.270/) <br>
 Ofir Press, Noah A. Smith, Omer Levy <br>
