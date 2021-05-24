@@ -8,7 +8,7 @@ I am a graduate student in the Paul G. Allen School for Computer Science & Engin
 In addition, I am currently a visiting researcher at Facebook AI Research in Seattle. 
 
 <div class="imgcap">
-<img src="/images/me.jpg" width="403" height="302">
+<img src="/images/me.jpg">
 </div>
 
 In my research I try to better understand the building blocks of neural NLP—the embedding/softmax layers, and the LSTM and self-attention modules—in order to make them faster, smaller, and more accurate. 
