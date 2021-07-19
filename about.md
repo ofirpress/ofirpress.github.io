@@ -11,7 +11,7 @@ In addition, I am currently a visiting researcher at Facebook AI Research in Sea
 <img src="/images/me.jpg">
 </div>
 
-In my research I try to better understand the building blocks of neural NLP—the embedding/softmax layers, and the LSTM and self-attention modules—in order to make them faster, smaller, and more accurate. 
+In my research I try to better understand the building blocks of neural NLP—the embedding/softmax layers, and the transformer architecture—in order to make them faster, smaller, and more accurate. 
 
 In the summer of 2019 I interened at Facebook AI Research with [Omer Levy](https://levyomer.wordpress.com/). 
 
