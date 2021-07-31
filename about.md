@@ -22,6 +22,8 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 ### Contact me
 
 [ofirp@cs.washington.edu](mailto:ofirp@cs.washington.edu)
+<br>
+[@ofirpress on Twitter](https://twitter.com/OfirPress)
 
 ### Papers ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
 
@@ -54,7 +56,7 @@ Ofir Press\*, Amir Bar\*, Ben Bogin\*, Jonathan Berant, Lior Wolf  <br>
 [Using the Output Embedding to Improve Language Models](https://www.aclweb.org/anthology/E17-2025) <br>
 Ofir Press, Lior Wolf <br>
 EACL 2017 <br>
-<span style="color:DarkRed">Introduced the **Weight Tying** method which is now used in BERT and many other state of the art language & translation models.</span> <br>
+<span style="color:DarkRed">Introduced the **weight tying** method which is now used in GPT, BERT and many other state of the art language & translation models.</span> <br>
 [[paper]](https://www.aclweb.org/anthology/E17-2025.pdf) [[summary]](https://www.shortscience.org/paper?bibtexKey=10.18653/v1/e17-2025&a=ofirpress) [[blog post]](https://ofir.io/Neural-Language-Modeling-From-Scratch/#weight-tying)  [[code]](https://github.com/ofirpress/UsingTheOutputEmbedding)  [[bib]](https://www.aclweb.org/anthology/E17-2025.bib) <br> 
 
 
