@@ -27,6 +27,11 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 
 ### Papers ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
 
+[Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://ofir.io/train_short_test_long.pdf) <br>
+Ofir Press, Noah A. Smith, Mike Lewis <br>
+Preprint <br>
+[[paper]](https://ofir.io/train_short_test_long.pdf) [[code]](https://github.com/ofirpress/attention_with_linear_biases)
+
 [Shortformer: Better Language Modeling using Shorter Inputs](https://arxiv.org/abs/2012.15832) <br>
 Ofir Press, Noah A. Smith, Mike Lewis <br>
 ACL 2021 <br>
