@@ -31,6 +31,7 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 Ofir Press, Noah A. Smith, Mike Lewis <br>
 Preprint <br>
 [[paper]](https://ofir.io/train_short_test_long.pdf) [[code]](https://github.com/ofirpress/attention_with_linear_biases) [[bib]](https://github.com/ofirpress/attention_with_linear_biases#citation) <br>
+[[Yannic Kilcher's video]](https://www.youtube.com/watch?v=-Kgxv64aG3o) <br>
 
 [Shortformer: Better Language Modeling using Shorter Inputs](https://arxiv.org/abs/2012.15832) <br>
 Ofir Press, Noah A. Smith, Mike Lewis <br>
