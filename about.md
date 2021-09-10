@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I am a graduate student in the Paul G. Allen School for Computer Science & Engineering at the University of Washington, where I am very fortunate to be advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/). 
-In addition, I am currently a visiting researcher at Facebook AI Research in Seattle. 
+In addition, I am currently a visiting researcher at Facebook AI Research on [Luke Zettlemoyer's](https://www.cs.washington.edu/people/faculty/lsz) team where I mainly work with [Mike Lewis](https://ai.facebook.com/people/mike-lewis/).
 
 <div class="imgcap">
 <img src="/images/me.jpg" style="width: 50%; height: 50%">
