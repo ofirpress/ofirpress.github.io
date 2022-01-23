@@ -29,7 +29,7 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 
 [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://ofir.io/train_short_test_long.pdf) <br>
 Ofir Press, Noah A. Smith, Mike Lewis <br>
-Preprint <br>
+ICLR 2022 <br>
 [[paper]](https://ofir.io/train_short_test_long.pdf) [[code]](https://github.com/ofirpress/attention_with_linear_biases) [[bib]](https://github.com/ofirpress/attention_with_linear_biases#citation) <br>
 [[Yannic Kilcher's video]](https://www.youtube.com/watch?v=-Kgxv64aG3o) <br>
 
