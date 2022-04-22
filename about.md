@@ -27,13 +27,13 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 
 ### Papers ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
 
-[Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://ofir.io/train_short_test_long.pdf) <br>
+[Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://openreview.net/forum?id=R8sQPpGCv0) <br>
 Ofir Press, Noah A. Smith, Mike Lewis <br>
 ICLR 2022 <br>
-[[paper]](https://ofir.io/train_short_test_long.pdf) [[code]](https://github.com/ofirpress/attention_with_linear_biases) [[bib]](https://github.com/ofirpress/attention_with_linear_biases#citation) <br>
+[[paper]](https://openreview.net/pdf?id=R8sQPpGCv0) [[code]](https://github.com/ofirpress/attention_with_linear_biases) [[bib]](https://github.com/ofirpress/attention_with_linear_biases#citation) <br>
 [[Yannic Kilcher's video]](https://www.youtube.com/watch?v=-Kgxv64aG3o) <br>
 
-[Shortformer: Better Language Modeling using Shorter Inputs](https://arxiv.org/abs/2012.15832) <br>
+[Shortformer: Better Language Modeling using Shorter Inputs](https://aclanthology.org/2021.acl-long.427/) <br>
 Ofir Press, Noah A. Smith, Mike Lewis <br>
 ACL 2021 <br>
 [[paper]](https://aclanthology.org/2021.acl-long.427.pdf) [[code]](https://github.com/ofirpress/shortformer) [[bib]](https://aclanthology.org/2021.acl-long.427.bib) <br> 
