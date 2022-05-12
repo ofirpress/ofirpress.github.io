@@ -5,13 +5,13 @@ permalink: /about/
 ---
 
 I am a graduate student in the Paul G. Allen School for Computer Science & Engineering at the University of Washington, where I am very fortunate to be advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/). 
-In addition, I am currently a visiting researcher at Facebook AI Research on [Luke Zettlemoyer's](https://www.cs.washington.edu/people/faculty/lsz) team where I mainly work with [Mike Lewis](https://ai.facebook.com/people/mike-lewis/).
-
-<div class="imgcap">
-<img src="/images/me.jpg" style="width: 50%; height: 50%">
-</div>
+During my PhD I spent two years as a visiting researcher at Facebook AI Research Labs on [Luke Zettlemoyer's](https://www.cs.washington.edu/people/faculty/lsz) team where I mainly worked with [Mike Lewis](https://ai.facebook.com/people/mike-lewis/).
 
 In my research I try to better understand the building blocks of neural NLP—the embedding/softmax layers, and the transformer architecture—in order to make them faster, smaller, and more accurate. 
+
+<div class="imgcap">
+<img src="/images/me.jpg" style="width: 33%; height: 33%">
+</div>
 
 In the summer of 2019 I interened at Facebook AI Research with [Omer Levy](https://levyomer.wordpress.com/). 
 
