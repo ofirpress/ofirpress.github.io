@@ -46,13 +46,6 @@ ACL 2020 <br>
 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.270.pdf) [[summary]](https://ofir.io/Improving-Transformer-Models-by-Reordering-their-Sublayers/) [[code]](https://github.com/ofirpress/sandwich_transformer)  [[bib]](https://www.aclweb.org/anthology/2020.acl-main.270.bib) <br>
 [[ACL video (summarizes the important bits, 12 min)]](https://slideslive.com/38928925/improving-transformer-models-by-reordering-their-sublayers) [[video (detailed overview, 35 min)]](https://www.youtube.com/watch?v=rFuuGEj3AhU)  <br>
 
-
-[You May Not Need Attention](https://arxiv.org/abs/1810.13409)  <br>
-Ofir Press, Noah A. Smith  <br>
-Preprint <br>
-[[paper]](https://arxiv.org/abs/1810.13409) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/1810.13409&a=ofirpress)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention)  [[bib]](https://github.com/ofirpress/YouMayNotNeedAttention#reference)  <br> 
-
-
 [Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/abs/1706.01399)  <br>
 Ofir Press\*, Amir Bar\*, Ben Bogin\*, Jonathan Berant, Lior Wolf  <br>
 1st Workshop on Learning to Generate Natural Language at ICML 2017 <br>
@@ -65,25 +58,29 @@ EACL 2017 <br>
 <span style="color:DarkRed">Introduced the **weight tying** method which is now used in GPT, BERT and many other state of the art language & translation models.</span> <br>
 [[paper]](https://www.aclweb.org/anthology/E17-2025.pdf) [[summary]](https://www.shortscience.org/paper?bibtexKey=10.18653/v1/e17-2025&a=ofirpress) [[blog post]](https://ofir.io/Neural-Language-Modeling-From-Scratch/#weight-tying)  [[code]](https://github.com/ofirpress/UsingTheOutputEmbedding)  [[bib]](https://www.aclweb.org/anthology/E17-2025.bib) <br> 
 
-<!--
-#### Technical Reports
 
+#### Technical Reports
+[You May Not Need Attention](https://arxiv.org/abs/1810.13409)  <br>
+Ofir Press, Noah A. Smith  <br>
+Preprint, 2018 <br>
+[[paper]](https://arxiv.org/abs/1810.13409) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/1810.13409&a=ofirpress)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention)  [[bib]](https://github.com/ofirpress/YouMayNotNeedAttention#reference)  <br> 
+
+<!--
+#### 
 [Partially Shuffling the Training Data to Improve Language Models](https://arxiv.org/abs/1903.04167) <br>
 Ofir Press <br>
 [[Report]](https://arxiv.org/abs/1903.04167) [[code]](https://github.com/ofirpress/PartialShuffle) [[bib]](https://github.com/ofirpress/PartialShuffle#reference) <br>
 -->
 
-<!-- ### Service
-Reviewer: 
-NAACL: 2019 (secondary reviewer), 2021
-EMNLP: 2019 (secondary reviewer), 2021
-ACL: 2020 (secondary reviewer), 2021
-EACL: 2021
-NeurIPS: 2021 (emergency reviewer)
-ICLR: 2022
-Workshops: NeuralGen 2019, SustaiNLP 2020
+### Reviewing: 
+NAACL: 2019 (secondary reviewer), 2021 <br>
+EMNLP: 2019 (secondary reviewer), 2021 <br>
+ACL: 2020 (secondary reviewer), 2021 <br>
+EACL: 2021 <br>
+NeurIPS: 2021 (emergency reviewer) <br>
+ICLR: 2022 <br>
+Workshops: NeuralGen 2019, SustaiNLP 2020 <br>
 
--->
 <!--
 ### ofir.io
 As of January 2021, this site has been accessed by more than 60,000 people from 169 countries.
