@@ -73,13 +73,13 @@ Ofir Press <br>
 -->
 
 ### Reviewing: 
-NAACL: 2019 (secondary reviewer), 2021 <br>
-EMNLP: 2019 (secondary reviewer), 2021 <br>
-ACL: 2020 (secondary reviewer), 2021 <br>
+NAACL: 2021, 2019 (secondary reviewer) <br>
+EMNLP: 2021, 2019 (secondary reviewer) <br>
+ACL: 2021, 2020 (secondary reviewer) <br>
 EACL: 2021 <br>
-NeurIPS: 2021 (emergency reviewer), 2022 <br>
+NeurIPS: 2022, 2021 (emergency reviewer) <br>
 ICLR: 2022 <br>
-Workshops: NeuralGen 2019, SustaiNLP 2020 <br>
+Workshops: SustaiNLP 2020, NeuralGen 2019 <br>
 
 <!--
 ### ofir.io
