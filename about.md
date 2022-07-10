@@ -77,7 +77,7 @@ NAACL: 2019 (secondary reviewer), 2021 <br>
 EMNLP: 2019 (secondary reviewer), 2021 <br>
 ACL: 2020 (secondary reviewer), 2021 <br>
 EACL: 2021 <br>
-NeurIPS: 2021 (emergency reviewer) <br>
+NeurIPS: 2021 (emergency reviewer), 2022 <br>
 ICLR: 2022 <br>
 Workshops: NeuralGen 2019, SustaiNLP 2020 <br>
 
