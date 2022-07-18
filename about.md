@@ -60,17 +60,15 @@ EACL 2017 <br>
 
 
 #### Technical Reports
+[Partially Shuffling the Training Data to Improve Language Models](https://arxiv.org/abs/1903.04167) <br>
+Ofir Press <br>
+Preprint, 2019 <br>
+[[preprint]](https://arxiv.org/abs/1903.04167) [[code]](https://github.com/ofirpress/PartialShuffle) [[bib]](https://github.com/ofirpress/PartialShuffle#reference) <br>
+
 [You May Not Need Attention](https://arxiv.org/abs/1810.13409)  <br>
 Ofir Press, Noah A. Smith  <br>
 Preprint, 2018 <br>
-[[paper]](https://arxiv.org/abs/1810.13409) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/1810.13409&a=ofirpress)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention)  [[bib]](https://github.com/ofirpress/YouMayNotNeedAttention#reference)  <br> 
-
-<!--
-#### 
-[Partially Shuffling the Training Data to Improve Language Models](https://arxiv.org/abs/1903.04167) <br>
-Ofir Press <br>
-[[Report]](https://arxiv.org/abs/1903.04167) [[code]](https://github.com/ofirpress/PartialShuffle) [[bib]](https://github.com/ofirpress/PartialShuffle#reference) <br>
--->
+[[preprint]](https://arxiv.org/abs/1810.13409) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/1810.13409&a=ofirpress)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention)  [[bib]](https://github.com/ofirpress/YouMayNotNeedAttention#reference)  <br> 
 
 ### Reviewing: 
 NAACL: 2021, 2019 (secondary reviewer) <br>
