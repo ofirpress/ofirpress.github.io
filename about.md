@@ -10,7 +10,7 @@ During my PhD I spent two years as a visiting researcher at Facebook AI Research
 In my research I try to better understand the building blocks of neural NLP—the embedding/softmax layers, and the transformer architecture—in order to make them faster, smaller, and more accurate. 
 
 <div class="imgcap">
-<img src="/images/me.jpg" style="width: 33%; height: 33%">
+<img src="/images/me.jpeg" style="width: 33%; height: 33%">
 </div>
 
 In the summer of 2019 I interened at Facebook AI Research with [Omer Levy](https://levyomer.wordpress.com/). 
