@@ -31,7 +31,8 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 Ofir Press, Noah A. Smith, Mike Lewis <br>
 ICLR 2022 <br>
 [[paper]](https://openreview.net/pdf?id=R8sQPpGCv0) [[code]](https://github.com/ofirpress/attention_with_linear_biases) [[bib]](https://github.com/ofirpress/attention_with_linear_biases#citation) <br>
-[[Yannic Kilcher's video]](https://www.youtube.com/watch?v=-Kgxv64aG3o) <br>
+[[Yannic Kilcher's video]](https://www.youtube.com/watch?v=-Kgxv64aG3o) 
+[[ICLR video (summarizes the important bits, 5 min)]](https://iclr.cc/virtual/2022/poster/6261)<br>
 
 [Shortformer: Better Language Modeling using Shorter Inputs](https://aclanthology.org/2021.acl-long.427/) <br>
 Ofir Press, Noah A. Smith, Mike Lewis <br>
