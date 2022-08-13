@@ -5,15 +5,13 @@ permalink: /about/
 ---
 
 I am a PhD candidate (ABD) at the Paul G. Allen School for Computer Science & Engineering at the University of Washington, where I am very fortunate to be advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/). 
-During my PhD I spent two years as a visiting researcher at Facebook AI Research Labs on [Luke Zettlemoyer's](https://www.cs.washington.edu/people/faculty/lsz) team where I mainly worked with [Mike Lewis](https://ai.facebook.com/people/mike-lewis/).
+During my PhD I spent two years as a visiting researcher at Facebook AI Research Labs on [Luke Zettlemoyer's](https://www.cs.washington.edu/people/faculty/lsz) team where I mainly worked with [Mike Lewis](https://ai.facebook.com/people/mike-lewis/). In the summer of 2019 I interened at Facebook AI Research with [Omer Levy](https://levyomer.wordpress.com/). 
 
 My research focuses on figuring out what scale doesn't solve in neural language modeling and finding out how we can improve LMs without scaling up the number of parameters, runtime, or memory usage. The weight tying method I developed is used today by almost all big language and translation models. Our more recent Shortformer paper showed that language models, when evaluated correctly, don't actually benefit from training on inputs that are more than 1k tokens long. Finally, my most recent paper, ALiBi, shows for the first time how to efficiently enable LMs to handle longer sequences at inference than the ones they were trained on. It has been adopted by BigScience's 176 billion parameter [BLOOM model](https://huggingface.co/bigscience/bloom). 
 
 <div class="imgcap">
 <img src="/images/me.jpeg" style="width: 33%; height: 33%">
 </div>
-
-In the summer of 2019 I interened at Facebook AI Research with [Omer Levy](https://levyomer.wordpress.com/). 
 
 Previously, I completed my Bachelor's and Master's degrees in Computer Science at Tel Aviv University (where I was advised by [Lior Wolf](http://www.cs.tau.ac.il/~wolf/) and also worked with [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/)) and briefly worked as a software developer. 
 
