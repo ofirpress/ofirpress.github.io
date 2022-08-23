@@ -29,8 +29,8 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 Ofir Press, Noah A. Smith, Mike Lewis <br>
 ICLR 2022 <br>
 <span style="color:DarkRed">ALiBi is the position embedding method of BigScience's BLOOM model! For more info or to download the model, go [here](https://huggingface.co/bigscience/bloom).</span> <br>
-[[paper]](https://openreview.net/pdf?id=R8sQPpGCv0) [[code]](https://github.com/ofirpress/attention_with_linear_biases) [[bib]](https://github.com/ofirpress/attention_with_linear_biases#citation) <br>
-[[Yannic Kilcher's video]](https://www.youtube.com/watch?v=-Kgxv64aG3o) 
+[[paper]](https://openreview.net/pdf?id=R8sQPpGCv0) [[code]](https://github.com/ofirpress/attention_with_linear_biases) [[FAQ]](https://github.com/ofirpress/attention_with_linear_biases/#faq) [[bib]](https://github.com/ofirpress/attention_with_linear_biases#citation) <br>
+[[Yannic Kilcher's video]](https://www.youtube.com/watch?v=-Kgxv64aG3o) [[My video (in-depth overview, 47 min)]](https://www.youtube.com/watch?v=Pp61ShI9VGc)
 [[ICLR video (summarizes the important bits, 5 min)]](https://iclr.cc/virtual/2022/poster/6261)<br>
 
 [Shortformer: Better Language Modeling using Shorter Inputs](https://aclanthology.org/2021.acl-long.427/) <br>
