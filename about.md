@@ -7,7 +7,13 @@ permalink: /about/
 I am a PhD candidate (ABD) at the Paul G. Allen School for Computer Science & Engineering at the University of Washington, where I am very fortunate to be advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/). 
 During my PhD I spent two years as a visiting researcher at Facebook AI Research Labs on [Luke Zettlemoyer's](https://www.cs.washington.edu/people/faculty/lsz) team where I mainly worked with [Mike Lewis](https://ai.facebook.com/people/mike-lewis/). Prior to that, in the summer of 2019 I interned at Facebook AI Research with [Omer Levy](https://levyomer.wordpress.com/). 
 
-My research focuses on figuring out what scale doesn't solve in neural language modeling and finding out how we can improve LMs without scaling up the number of parameters, runtime, or memory usage. The weight tying method I developed is used today by almost all big language and translation models. Our more recent Shortformer paper showed that language models, when evaluated correctly, don't actually benefit from training on inputs that are more than 1k tokens long. Finally, my most recent paper, ALiBi, shows for the first time how to efficiently enable LMs to handle longer sequences at inference than the ones they were trained on. It has been adopted by BigScience's 176 billion parameter [BLOOM model](https://huggingface.co/bigscience/bloom). 
+My research focuses on figuring out what scale doesn't solve in neural language modeling and finding out how we can improve LMs without scaling up the number of parameters, runtime, or memory usage. 
+
+The weight tying method I developed is used today by almost all big language and translation models. Our more recent Shortformer paper showed that language models, when evaluated correctly, don't actually benefit from training on inputs that are more than 1k tokens long. 
+
+ALiBi shows for the first time how to efficiently enable LMs to handle longer sequences at inference than the ones they were trained on. It has been adopted by BigScience's 176 billion parameter [BLOOM model](https://huggingface.co/bigscience/bloom). 
+
+In my latest preprint we show how to improve the ability of LMs to answer complex questions by simply using a better prompt. Our self-ask prompt has the language model ask and answer sub-questions about the input question before generating the final answer. The structure of the self-ask prompt allows us to easily plug in Google Search to answer the sub-questions, which further improves performance. 
 
 <div class="imgcap">
 <img src="/images/me.jpeg" style="width: 33%; height: 33%">
@@ -24,6 +30,13 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 [@ofirpress on Twitter](https://twitter.com/OfirPress)
 
 ### Papers ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
+
+[Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/abs/2210.03350) <br>
+Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis <br>
+Preprint <br>
+[[paper]](https://arxiv.org/pdf/2210.03350.pdf) [[code]](https://github.com/ofirpress/self-ask) <br>
+[[self-ask demo video, 2 min]](https://twitter.com/OfirPress/status/1577302733383925762) <br>
+
 
 [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://openreview.net/forum?id=R8sQPpGCv0) <br>
 Ofir Press, Noah A. Smith, Mike Lewis <br>
