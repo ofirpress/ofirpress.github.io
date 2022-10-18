@@ -29,7 +29,7 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 <br>
 [@ofirpress on Twitter](https://twitter.com/OfirPress)
 
-### Papers ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
+### Selected Papers ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
 
 [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/abs/2210.03350) <br>
 Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis <br>
