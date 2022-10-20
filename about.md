@@ -29,7 +29,7 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 <br>
 [@ofirpress on Twitter](https://twitter.com/OfirPress)
 
-### Selected Papers ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
+### Selected Works ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ))
 
 [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/abs/2210.03350) <br>
 Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis <br>
@@ -83,6 +83,9 @@ Preprint, 2019 <br>
 Ofir Press, Noah A. Smith  <br>
 Preprint, 2018 <br>
 [[preprint]](https://arxiv.org/abs/1810.13409) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/1810.13409&a=ofirpress)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention)  [[bib]](https://github.com/ofirpress/YouMayNotNeedAttention#reference)  <br> 
+
+### Mentees: 
+[Muru Zhang](https://nanami18.github.io/) (UW Master's Student) <br> 
 
 ### Reviewing: 
 NAACL: 2021, 2019 (secondary reviewer) <br>
