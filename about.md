@@ -4,7 +4,8 @@ title:
 permalink: /about/
 ---
 
-I am a PhD candidate (ABD) at the Paul G. Allen School for Computer Science & Engineering at the University of Washington, where I am very fortunate to be advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/). 
+I am a PhD candidate (ABD) at the Paul G. Allen School for Computer Science & Engineering at the University of Washington, where I am very fortunate to be advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/). I'm also a Visiting Researcher at [MosaicML](https://www.mosaicml.com/).
+
 During my PhD I spent two years as a visiting researcher at Facebook AI Research Labs on [Luke Zettlemoyer's](https://www.cs.washington.edu/people/faculty/lsz) team where I mainly worked with [Mike Lewis](https://ai.facebook.com/people/mike-lewis/). Prior to that, in the summer of 2019 I interned at Facebook AI Research with [Omer Levy](https://levyomer.wordpress.com/). 
 
 My research focuses on figuring out what scale doesn't solve in neural language modeling and finding out how we can improve LMs without scaling up the number of parameters, runtime, or memory usage. 
