@@ -14,7 +14,7 @@ The weight tying method I developed is used today by almost all big language and
 
 ALiBi shows for the first time how to efficiently enable LMs to handle longer sequences at inference than the ones they were trained on. It has been adopted by BigScience's 176 billion parameter [BLOOM model](https://huggingface.co/bigscience/bloom). 
 
-In my latest preprint we show how to improve the ability of LMs to answer complex questions by simply using a better prompt. Our self-ask prompt has the language model ask and answer sub-questions about the input question before generating the final answer. The structure of the self-ask prompt allows us to easily plug in Google Search to answer the sub-questions, which further improves performance. 
+In my latest preprint we show how to improve the ability of LMs to answer complex questions by simply using a better prompt. Our [self-ask](https://twitter.com/OfirPress/status/1577302733383925762) prompt has the language model ask and answer sub-questions about the input question before generating the final answer. The structure of the self-ask prompt allows us to easily plug in Google Search to answer the sub-questions, which further improves performance. 
 
 <div class="imgcap">
 <img src="/images/me.jpeg" style="width: 33%; height: 33%">
@@ -53,7 +53,7 @@ Ofir Press, Noah A. Smith, Mike Lewis <br>
 ACL 2021 <br>
 [[paper]](https://aclanthology.org/2021.acl-long.427.pdf) [[code]](https://github.com/ofirpress/shortformer) [[bib]](https://aclanthology.org/2021.acl-long.427.bib) <br> 
 [[ACL video (summarizes the important bits, 12 min)]](https://screencast-o-matic.com/watch/cr1ZexV1tlA) 
-[[video (detailed overview, 1 hour ]](https://www.youtube.com/watch?v=j9gl4txW4xo)<br>
+[[video (detailed overview, 1 hour)]](https://www.youtube.com/watch?v=j9gl4txW4xo)<br>
 
 [Improving Transformer Models by Reordering their Sublayers](https://www.aclweb.org/anthology/2020.acl-main.270/) <br>
 Ofir Press, Noah A. Smith, Omer Levy <br>
