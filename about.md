@@ -8,7 +8,7 @@ I am a PhD candidate (ABD) at the Paul G. Allen School for Computer Science & En
 
 During my PhD I spent two years as a visiting researcher at Facebook AI Research Labs on [Luke Zettlemoyer's](https://www.cs.washington.edu/people/faculty/lsz) team where I mainly worked with [Mike Lewis](https://ai.facebook.com/people/mike-lewis/). Prior to that, in the summer of 2019 I interned at Facebook AI Research with [Omer Levy](https://levyomer.wordpress.com/). 
 
-My research focuses on figuring out what scale doesn't solve in neural language modeling and finding out how we can improve LMs without scaling up the number of parameters, runtime, or memory usage. 
+My research focuses on figuring out what scale doesn't solve in neural language modeling and finding out how we can improve LMs without scaling up the number of parameters, runtime, or memory usage. In addition, I've recently started exploring how to combine LMs with external systems, such as Google Search, which resulted in our [Self-ask + Google Search system](https://twitter.com/OfirPress/status/1577302733383925762).
 
 The weight tying method I developed is used today by almost all big language and translation models. Our more recent Shortformer paper showed that language models, when evaluated correctly, don't actually benefit from training on inputs that are more than 1k tokens long. 
 
