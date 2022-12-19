@@ -45,3 +45,5 @@ To visualize approach 2 from above, I have a toy input sentence here with a toy 
 Let’s look at the token ‘jumped’ in these two subsequent forward passes with the sliding window + absolute embeddings approach. 
 ‘Jumped’ was assigned position 4 in the initial forward pass, and then if we use this sliding window approach we would have to treat ‘jumped’ as position 3 in the next forward pass, even though we need to attend to the old cached representation in which it had position 4. This weirdness that the model definitely didn’t experience during training just leads it to produce very bad predictions. This approach does not work. 
 
+_Edit:_ Shortly after I wrote this blog post I was made aware of [this](https://arxiv.org/abs/2210.12574) new paper which reveals new evidence showing the weakness of absolute position embeddings. 
+
