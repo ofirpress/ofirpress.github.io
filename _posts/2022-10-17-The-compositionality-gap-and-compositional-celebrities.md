@@ -3,7 +3,7 @@ layout: post
 title: The Compositionality Gap and the Compositional Celebrities Dataset
 mathjax: true
 ---
-<iframe width="560" height="315" display=block src="https://www.youtube.com/watch?v=A3GtlwwWDhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" display=block src="https://www.youtube.com/embed/A3GtlwwWDhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 As language models grow in size they know more, but do they get better at reasoning? To test GPT-3, we generated lots of questions such as "What is the calling code of the birthplace of Adele?".
 We show that as GPT-3 size grows, it does not improve its reasoning abilities on these types of questions.
