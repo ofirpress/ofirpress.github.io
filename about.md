@@ -41,6 +41,7 @@ Preprint <br>
 [[paper]](https://arxiv.org/pdf/2210.03350.pdf) [[code]](https://github.com/ofirpress/self-ask) [[datasets (Compositional Celebrities, Bamboogle)]](https://github.com/ofirpress/self-ask/tree/main/datasets) <br>
 [[Self-ask & Self-ask + Google Search demo video, 2 min]](https://twitter.com/OfirPress/status/1577302733383925762) <br>
 [[The Compositionality Gap Explained (video), 2 min]](https://ofir.io/The-compositionality-gap-and-compositional-celebrities/) <br>
+[[Introducing the Bamboogle Dataset (video), 2 min]](https://twitter.com/OfirPress/status/1658121247761285123) <br>
 
 
 [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://openreview.net/forum?id=R8sQPpGCv0) <br>
