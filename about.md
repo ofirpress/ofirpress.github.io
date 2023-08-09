@@ -39,7 +39,7 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis <br>
 Preprint <br>
 [[paper]](https://arxiv.org/pdf/2210.03350.pdf) [[code]](https://github.com/ofirpress/self-ask) [[datasets (Compositional Celebrities, Bamboogle)]](https://github.com/ofirpress/self-ask/tree/main/datasets) <br>
-[[Self-ask & Self-ask + Google Search demo video, 2 min]](https://twitter.com/OfirPress/status/1577302733383925762) <br>
+[[Self-ask & Self-ask + Google Search demo video, 2 min]](https://ofir.io/Self-ask-prompting/) <br>
 [[The Compositionality Gap Explained (video), 2 min]](https://ofir.io/The-compositionality-gap-and-compositional-celebrities/) <br>
 [[Introducing the Bamboogle Dataset (video), 2 min]](https://twitter.com/OfirPress/status/1658121247761285123) <br>
 
