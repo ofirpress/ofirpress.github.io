@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-I am a PhD candidate (ABD) at the Paul G. Allen School for Computer Science & Engineering at the University of Washington, where I am very fortunate to be advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/). 
+I completed my PhD at the Paul G. Allen School for Computer Science & Engineering at the University of Washington, where I was very fortunate to be advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/). 
 
 During my PhD I spent two years as a visiting researcher at Facebook AI Research Labs on [Luke Zettlemoyer's](https://www.cs.washington.edu/people/faculty/lsz) team where I mainly worked with [Mike Lewis](https://ai.facebook.com/people/mike-lewis/). Prior to that, in the summer of 2019 I interned at Facebook AI Research with [Omer Levy](https://levyomer.wordpress.com/). Towards the end of my PhD I spent half a year as a visiting researcher at [MosaicML](https://www.mosaicml.com/) on [Jonathan Frankle's](http://www.jfrankle.com/) team.
 
@@ -12,7 +12,7 @@ I've been writing papers on neural language modeling since 2016. My focus is on 
 
 The weight tying method I developed is used today by almost all big language and translation models, including OpenAI's GPT, Google's BERT, and the translation models of Google, Microsoft, Meta and Amazon. 
 
-Our ALiBi method showed for the first time how to efficiently enable LMs to handle longer sequences at inference than the ones they were trained on. It has been adopted by BigScience's 176 billion parameter [BLOOM model](https://huggingface.co/bigscience/bloom). 
+Our ALiBi method showed for the first time how to efficiently enable LMs to handle longer sequences at inference than the ones they were trained on. It has been adopted by BigScience's 176 billion parameter [BLOOM model](https://huggingface.co/bigscience/bloom), by the MPT series of models from MosaicML, by Replit's models and many others. 
 
 In our latest preprint we show how to improve the ability of LMs to answer complex questions by simply using a better prompt. Our [self-ask](https://twitter.com/OfirPress/status/1577302733383925762) prompt has the language model ask and answer sub-questions about the input question before generating the final answer. The structure of the self-ask prompt allows us to easily plug in Google Search to answer the sub-questions, which further improves performance. 
 
@@ -41,13 +41,13 @@ Preprint <br>
 [[paper]](https://arxiv.org/pdf/2210.03350.pdf) [[code]](https://github.com/ofirpress/self-ask) [[datasets (Compositional Celebrities, Bamboogle)]](https://github.com/ofirpress/self-ask/tree/main/datasets) <br>
 [[Self-ask & Self-ask + Google Search demo video, 2 min]](https://ofir.io/Self-ask-prompting/) <br>
 [[The Compositionality Gap Explained (video), 2 min]](https://ofir.io/The-compositionality-gap-and-compositional-celebrities/) <br>
-[[Introducing the Bamboogle Dataset (video), 2 min]](https://twitter.com/OfirPress/status/1658121247761285123) <br>
+[[Introducing the Bamboogle Dataset (video), 2 min]](https://ofir.io/The-Bamboogle-Dataset/) <br>
 
 
 [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://openreview.net/forum?id=R8sQPpGCv0) <br>
 Ofir Press, Noah A. Smith, Mike Lewis <br>
 ICLR 2022 <br>
-<span style="color:DarkRed">ALiBi is the position embedding method of BigScience's BLOOM model! For more info or to download the model, go [here](https://huggingface.co/bigscience/bloom).</span> <br>
+<span style="color:DarkRed">ALiBi is the position embedding method of BigScience's BLOOM model, MosaicML's LMs, Replit's LMs, and many others.</span> <br>
 [[paper]](https://openreview.net/pdf?id=R8sQPpGCv0) [[code]](https://github.com/ofirpress/attention_with_linear_biases) [[FAQ]](https://github.com/ofirpress/attention_with_linear_biases/#faq) [[bib]](https://github.com/ofirpress/attention_with_linear_biases#citation) <br>
 [[Yannic Kilcher's video]](https://www.youtube.com/watch?v=-Kgxv64aG3o) [[My video (in-depth overview, 47 min)]](https://www.youtube.com/watch?v=Pp61ShI9VGc)
 [[ICLR video (summarizes the important bits, 5 min)]](https://iclr.cc/virtual/2022/poster/6261)<br>
