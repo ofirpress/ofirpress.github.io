@@ -71,6 +71,8 @@ Note that Google Search does not have a publicly available API, and so we use [S
 
 Watch our demo (embedded above) for a deeper overview of Self-ask and Self-ask + Google Search. 
 
-To read more about the Compositional Celebrities dataset that we created to evaluate self-ask, and about the surprising *compositionality gap* that we discovered, read [this post](https://ofir.io/The-compositionality-gap-and-compositional-celebrities/).
+To learn more about the Compositional Celebrities dataset that we created to evaluate self-ask, and about the surprising *compositionality gap* that we discovered, go to [this post](https://ofir.io/The-compositionality-gap-and-compositional-celebrities/).
+
+To learn more about the Bamboogle dataset that we created, made up only of questions that Google *can't* answer, go [here](https://ofir.io/The-Bamboogle-Dataset/).
 
 Our paper is available [here](https://arxiv.org/abs/2210.03350), and our code for Self-ask + Google Search is [on GitHub](https://github.com/ofirpress/self-ask/blob/main/self-ask_plus_search-engine_demo.ipynb). 
