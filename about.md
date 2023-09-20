@@ -4,6 +4,8 @@ title:
 permalink: /about/
 ---
 
+I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). 
+
 I completed my PhD at the Paul G. Allen School for Computer Science & Engineering at the University of Washington, where I was very fortunate to be advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/). 
 
 During my PhD I spent two years as a visiting researcher at Facebook AI Research Labs on [Luke Zettlemoyer's](https://www.cs.washington.edu/people/faculty/lsz) team where I mainly worked with [Mike Lewis](https://ai.facebook.com/people/mike-lewis/). Prior to that, in the summer of 2019 I interned at Facebook AI Research with [Omer Levy](https://levyomer.wordpress.com/). Towards the end of my PhD I spent half a year as a visiting researcher at [MosaicML](https://www.mosaicml.com/) on [Jonathan Frankle's](http://www.jfrankle.com/) team.
