@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). 
+I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). If you are a PhD/Master's/Undergraduate student at Princeton or a PhD student at a different university, and you'd like to work with me, please email me. 
 
 I completed my PhD at the Paul G. Allen School for Computer Science & Engineering at the University of Washington, where I was very fortunate to be advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/). 
 
@@ -31,7 +31,7 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 
 ### Contact me
 
-[ofirp@cs.washington.edu](mailto:ofirp@cs.washington.edu)
+[ofirp@cs.washington.edu](mailto:ofirp@princeton.edu)
 <br>
 [@ofirpress on Twitter](https://twitter.com/OfirPress)
 
