@@ -31,7 +31,7 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 
 ### Contact me
 
-[ofirp@cs.washington.edu](mailto:ofirp@princeton.edu)
+[ofirp@princeton.edu](mailto:ofirp@princeton.edu)
 <br>
 [@ofirpress on Twitter](https://twitter.com/OfirPress)
 
