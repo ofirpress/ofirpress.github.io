@@ -3,6 +3,9 @@ layout: post
 title: PhD Thesis Acknowledgments and Dedication
 mathjax: true
 ---
+
+The only important parts of a PhD thesis are the acknowledgments and dedication sections so I've uploaded them here. 
+
 # Acknowledgments
 
 When Noah A. Smith accepted me into the Ph.D. program, he invited me into an environment that eventually produced a new and improved me: a version of me that is more open to new ideas, better at executing, smarter, and more patient. I will be forever grateful to Noah for believing in me and fully trusting me from day one and for always treating me with respect, patience, and love. Noah not only taught me how to do science, he also significantly improved my storytelling abilities, my ability to hold onto a reader's attention, and my ability to frame my stories in an appealing way. 
