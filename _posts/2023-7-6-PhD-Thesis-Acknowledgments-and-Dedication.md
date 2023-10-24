@@ -4,7 +4,7 @@ title: PhD Thesis Acknowledgments and Dedication
 mathjax: true
 ---
 
-The only important parts of a PhD thesis are the acknowledgments and dedication sections so I've uploaded them here. 
+The only important parts of a PhD thesis are the acknowledgments and dedication sections 😉 so I've uploaded the ones from my thesis here. 
 
 # Acknowledgments
 
