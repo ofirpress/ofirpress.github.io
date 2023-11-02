@@ -101,6 +101,7 @@ ACL: 2021, 2020 (secondary reviewer) <br>
 EACL: 2021 <br>
 NeurIPS: 2022, 2021 (emergency reviewer) <br>
 ICLR: 2022 <br>
+Journals: Harvard Data Science Review
 Workshops: SustaiNLP 2020, NeuralGen 2019 <br>
 
 <!--
