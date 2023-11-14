@@ -46,6 +46,7 @@ Findings of EMNLP 2023 <br>
 [[Self-ask & Self-ask + Google Search demo video, 2 min]](https://ofir.io/Self-ask-prompting/) <br>
 [[The Compositionality Gap Explained (video), 2 min]](https://ofir.io/The-compositionality-gap-and-compositional-celebrities/) <br>
 [[Introducing the Bamboogle Dataset (video), 2 min]](https://ofir.io/The-Bamboogle-Dataset/) <br>
+[[In-depth overview of Self-ask and the Compositionality Gap (video), 47 min]](https://www.youtube.com/watch?v=NStW4fO0TII) <br>
 
 
 [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://openreview.net/forum?id=R8sQPpGCv0) <br>
