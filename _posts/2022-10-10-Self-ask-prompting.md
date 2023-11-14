@@ -76,3 +76,6 @@ To learn more about the Compositional Celebrities dataset that we created to eva
 To learn more about the Bamboogle dataset that we created, made up only of questions that Google *can't* answer, go [here](https://ofir.io/The-Bamboogle-Dataset/).
 
 Our paper is available [here](https://arxiv.org/abs/2210.03350), and our code for Self-ask + Google Search is [on GitHub](https://github.com/ofirpress/self-ask/blob/main/self-ask_plus_search-engine_demo.ipynb). 
+
+The following video provies an in-depth overview of all of the topics listed above:
+<iframe width="560" height="315" display=block src="https://www.youtube.com/watch?v=NStW4fO0TII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
