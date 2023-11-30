@@ -47,3 +47,6 @@ Let’s look at the token ‘jumped’ in these two subsequent forward passes wi
 
 _Edit:_ Shortly after I wrote this blog post I was made aware of [this](https://arxiv.org/abs/2210.12574) new paper which reveals new evidence showing the weakness of absolute position embeddings. 
 
+To learn more about ALiBi and relative position embeddings in general, watch my lecture here:
+<iframe width="560" height="315" display=block src="https://www.youtube.com/embed/Pp61ShI9VGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
