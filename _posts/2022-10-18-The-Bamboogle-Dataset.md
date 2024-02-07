@@ -8,6 +8,6 @@ mathjax: true
 
 In our [Compositionality Gap paper](https://arxiv.org/abs/2210.03350), we show that language models also struggle with these questions and that our self-ask prompting method substantially improves the ability of language models to answer these questions (better than Chain-of-Thought).
 
-For move details, check out the video above. 
+For more details, check out the video above. 
 
 Bamboogle was introduced in our Compositionality Gap paper which can be found [here](https://arxiv.org/abs/2210.03350), and the dataset itself is [here](https://github.com/ofirpress/self-ask/blob/main/datasets/bamboogle.md). 
