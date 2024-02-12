@@ -12,7 +12,7 @@ I completed my PhD at the Paul G. Allen School for Computer Science & Engineerin
 
 During my PhD I spent two years as a visiting researcher at Facebook AI Research Labs on [Luke Zettlemoyer's](https://www.cs.washington.edu/people/faculty/lsz) team where I mainly worked with [Mike Lewis](https://ai.facebook.com/people/mike-lewis/). Prior to that, in the summer of 2019 I interned at Facebook AI Research with [Omer Levy](https://levyomer.wordpress.com/). Towards the end of my PhD I spent half a year as a visiting researcher at [MosaicML](https://www.mosaicml.com/) on [Jonathan Frankle's](http://www.jfrankle.com/) team.
 
-I've been writing papers on neural language modeling since 2016. My focus is on figuring out what issues aren't solved by scaling in LMs, and how to improve LMs without increasing the number of parameters, runtime or memory usage.
+I've been writing papers on neural language modeling since 2016. My focus is on making language models more useful to humans. In the first six years of my career I accomplished this by improving LM architectures without increasing their size or runtime. I then moved to working on better prompting methods for improving LMs. I currently try to accomplish my goals by constructing benchmarks that show us where there's room for improvement in language modeling, and by building systems that use language models to try and solve those tough benchmarks. 
 
 The weight tying method I developed is used today by almost all big language and translation models, including OpenAI's GPT, Google's BERT, and the translation models of Google, Microsoft, Meta and Amazon. 
 
@@ -38,6 +38,12 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 [@ofirpress on Twitter](https://twitter.com/OfirPress)
 
 ### Selected Works ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Ofir-Press/40170001))
+
+[SWE-bench](https://swebench.com) <br>
+Carlos E. Jimenez, John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan <br>
+ICLR 2024 (Oral) <br>
+[[website]](https://swebench.com)
+
 
 [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/abs/2210.03350) <br>
 Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis <br>
