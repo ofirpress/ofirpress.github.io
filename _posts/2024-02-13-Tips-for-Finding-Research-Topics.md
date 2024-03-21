@@ -36,7 +36,7 @@ If I have a model that can get 70% accuracy on SWE-bench, and you develop a new 
 You should always be comparing your methods to the strongest baselines you can find, and you should strive to make that comparison as fair as possible. 
 
 #### Why is community excitement important?
-You should definitely work on research that excites you, but you should also try to find a topic that would also excite a large amount of the other researchers in the field. Papers only reach a small percentage of their target audience. If you’re writing a paper about a niche topic that only has 50 researchers working on it, maybe 15 of them would actually hear about your work, 5 of them would read it and likely none of them would perform follow-up work. I therefore find it incredibly useful and rewarding to work on topics that have a wide interest in the community. 
+**You should definitely work on research that excites you**, but you should also try to find a topic that would also excite a large amount of the other researchers in the field. Papers only reach a small percentage of their target audience. If you’re writing a paper about a niche topic that only has 50 researchers working on it, maybe 15 of them would actually hear about your work, 5 of them would read it and likely none of them would perform follow-up work. I therefore find it incredibly useful and rewarding to work on topics that have a wide interest in the community. 
 
 
 ### 4. Write a paper that would be an interesting part of the research discourse that will be happening in nine months.
