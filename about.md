@@ -37,6 +37,11 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 <br>
 [@ofirpress on Twitter](https://twitter.com/OfirPress)
 
+### Mentees: 
+[Carlos Jimenez](https://www.carlosejimenez.com/) (2023- , Princeton PhD) <br>
+[John Yang](https://john-b-yang.github.io/) (2023- , Princeton MSc) <br>
+[Muru Zhang](https://nanami18.github.io/) (2022-2023, UWashington MSc) <br> 
+
 ### Selected Works ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Ofir-Press/40170001))
 
 [SWE-bench](https://swebench.com) <br>
@@ -99,9 +104,6 @@ Preprint, 2019 <br>
 Ofir Press, Noah A. Smith  <br>
 Preprint, 2018 <br>
 [[preprint]](https://arxiv.org/abs/1810.13409) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/1810.13409&a=ofirpress)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention)  [[bib]](https://github.com/ofirpress/YouMayNotNeedAttention#reference)  <br> 
-
-### Mentees: 
-[Muru Zhang](https://nanami18.github.io/) (UW Master's Student) <br> 
 
 ### Reviewing: 
 NAACL: 2021, 2019 (secondary reviewer) <br>
