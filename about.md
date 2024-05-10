@@ -113,6 +113,7 @@ EACL: 2021 <br>
 NeurIPS: 2022, 2021 (emergency reviewer) <br>
 ICLR: 2022 <br>
 ICML: 2024 <br>
+COLM: 2024 <br>
 Journals: Harvard Data Science Review (2024) <br>
 Workshops: SustaiNLP 2020, NeuralGen 2019 <br>
 
