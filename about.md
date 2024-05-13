@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). If you are a PhD/Master's/Undergraduate student at Princeton or a PhD student at a different university, and you'd like to work with me, please email me. 
+I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). I build tough benchmarks for LMs and then I get the LMs to solve them.
 
 Check out my [YouTube channel](https://www.youtube.com/@ofirpress/videos) for videos that explain my research and language modeling in general. 
 
