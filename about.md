@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). I build tough benchmarks for LMs and then I get the LMs to solve them.
+I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). I build tough benchmarks for LMs (i.e. [SWE-bench](swe-bench.com)) and then I get the LMs to solve them (i.e. [SWE-agent](swe-agent.com)).
 
 Check out my [YouTube channel](https://www.youtube.com/@ofirpress/videos) for videos that explain my research and language modeling in general. 
 
