@@ -110,7 +110,7 @@ NAACL: 2021, 2019 (secondary reviewer) <br>
 EMNLP: 2022, 2021, 2019 (secondary reviewer) <br>
 ACL: 2021, 2020 (secondary reviewer) <br>
 EACL: 2021 <br>
-NeurIPS: 2022, 2021 (emergency reviewer) <br>
+NeurIPS: 2024, 2022, 2021 (emergency reviewer) <br>
 ICLR: 2022 <br>
 ICML: 2024 <br>
 COLM: 2024 <br>
