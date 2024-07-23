@@ -44,11 +44,22 @@ My brother [Ori Press](https://oripress.com/) is a computer vision researcher.
 
 ### Selected Works ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Ofir-Press/40170001))
 
-[SWE-bench](https://swebench.com) <br>
-Carlos E. Jimenez, John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan <br>
-ICLR 2024 (Oral) <br>
-[[website]](https://swebench.com)
+<span style="color:DarkRed">New (July 2024): Checkout our three new benchmarks: [CiteMe](https://citeme.ai), [SciCode](https://scicode-bench.github.io/), and [AssistantBench](https://assistantbench.github.io/)</span> <br>
 
+[SWE-agent](https://swe-agent.com) <br>
+John Yang, Carlos E. Jimenez, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, **Ofir Press** <br>
+[[website]](https://swe-agent.com) <br>
+
+
+[SWE-bench](https://swebench.com) <br>
+Carlos E. Jimenez, John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, **Ofir Press**, Karthik Narasimhan <br>
+ICLR 2024 (Oral) <br>
+[[website]](https://swebench.com) <br>
+
+[How Language Model Hallucinations Can Snowball](https://arxiv.org/abs/2305.13534) <br>
+Muru Zhang, **Ofir Press**, William Merrill, Alisa Liu, Noah A. Smith <br>
+ICML 2024 <br>
+[[paper]](https://arxiv.org/abs/2305.13534) <br>
 
 [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/abs/2210.03350) <br>
 Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis <br>
