@@ -14,7 +14,7 @@ During my PhD I spent two years as a visiting researcher at Facebook AI Research
 
 I've been writing papers on neural language modeling since 2016. My focus is on making language models more useful to humans. In the first six years of my career I accomplished this by improving LM architectures without increasing their size or runtime. I then moved to working on better prompting methods for improving LMs. I currently try to accomplish my goals by constructing benchmarks that show us where there's room for improvement in language modeling, and by building systems that use language models to try and solve those tough benchmarks. 
 
-The weight tying method I developed is used today by almost all big language and translation models, including OpenAI's GPT, Google's BERT, and the translation models of Google, Microsoft, Meta and Amazon. 
+The weight tying method I developed is used today by almost all big language and translation models, including OpenAI's GPT, Google's BERT, [Apple's on-device LM](https://arxiv.org/html/2407.21075v1), and the translation models of Google, Microsoft, Meta and Amazon. 
 
 Our ALiBi method showed for the first time how to efficiently enable LMs to handle longer sequences at inference than the ones they were trained on. It has been adopted by BigScience's 176 billion parameter [BLOOM model](https://huggingface.co/bigscience/bloom), by the MPT series of models from MosaicML, by Replit's models and many others. 
 
