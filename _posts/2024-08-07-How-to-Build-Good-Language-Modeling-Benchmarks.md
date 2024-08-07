@@ -65,7 +65,7 @@ Building a benchmark that would be **hard to leak into the training data** is so
       
     When you write the analysis section in your paper about your benchmark, it’s totally fine to present other metrics for each model, or to break down performance by category, but you should only do that there, and not have the categories or other metrics when you generally talk about the benchmark.
     
-2.  When you write a paper, always include very strong baselines, both based on strong proprietary models and on leading open source models. You should never try to make your benchmark look more impressive than it actually is by including only weak baselines, or baseline systems that use old or outdated models like GPT 3.5 or Llama 3 7B.
+2.  When you write a paper, always **include very strong baselines**, both based on strong proprietary models and on leading open source models. You should never try to make your benchmark look more impressive than it actually is by including only weak baselines, or baseline systems that use old or outdated models like GPT 3.5 or Llama 3 7B.
     
 3.  Benchmarks typically get saturated within a year. And so when you build a benchmark, I don’t think it’s important to worry about questions like “Will this still be an interesting question in five years?”. Deep learning moves incredibly quickly, and there’s no way to predict where we’ll be in more than a year. For this reason, it’s also OK to have benchmarks that ask questions that will probably have totally different answers in a year or two, such as “Which yoga studios near Bushwick in NYC have a Vinyasa class before 7AM?”.
     
