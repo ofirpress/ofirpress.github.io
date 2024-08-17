@@ -75,5 +75,3 @@ Building a benchmark that would be **hard to leak into the training data** is so
 Benchmarks are great because they provide a lot of room for creativity, and they can be super impactful in guiding the community towards the future. I hope this post helps you in building the next big LM benchmark. And always remember- rules are meant to be broken. I do not think that a benchmark that does not follow all of these rules is bad. I just think that these guidelines are a good indicator for whether you're on the right path or not. 
 
   
-
-If you enjoyed this post, please join our [upcoming event](https://lu.ma/4240w5us) on Wednesday, the 14th of August, where we will present the three new benchmarks my collaborators and I have recently launched: SciCode, CiteME, and AssistantBench.
