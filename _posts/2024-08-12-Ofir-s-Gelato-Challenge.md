@@ -4,7 +4,7 @@ title: Ofir's Gelato Challenge
 mathjax: true
 ---
 
-At NeurIPS 2024, I will buy gelato for the team that has the highest combined score on SWE-bench Lite, AssistantBench, CiteME, and SciCode. Final submission is by end-of-day (anywhere in the world) December 3, 2024.
+At NeurIPS 2024, I will buy gelato for the team that has the highest combined score on [SWE-bench Lite](https://www.swebench.com/), [AssistantBench](https://assistantbench.github.io/), [CiteME](https://www.citeme.ai/), and [SciCode](https://scicode-bench.github.io/). Final submission is by end-of-day (anywhere in the world) December 3, 2024.
 
 ### Rules:
 0. You may use any proprietary or open source model. 
