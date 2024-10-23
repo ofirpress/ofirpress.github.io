@@ -12,6 +12,11 @@ I completed my PhD at the Paul G. Allen School for Computer Science & Engineerin
 
 During my PhD I spent two years as a visiting researcher at Facebook AI Research Labs on [Luke Zettlemoyer's](https://www.cs.washington.edu/people/faculty/lsz) team where I mainly worked with [Mike Lewis](https://ai.facebook.com/people/mike-lewis/). Prior to that, in the summer of 2019 I interned at Facebook AI Research with [Omer Levy](https://levyomer.wordpress.com/). Towards the end of my PhD I spent half a year as a visiting researcher at [MosaicML](https://www.mosaicml.com/) on [Jonathan Frankle's](http://www.jfrankle.com/) team.
 
+<div class="imgcap">
+<img src="/images/me.jpeg" style="width: 33%; height: 33%">
+</div>
+
+
 I've been writing papers on neural language modeling since 2016. My focus is on making language models more useful to humans. In the first six years of my career I accomplished this by improving LM architectures without increasing their size or runtime. I then moved to working on better prompting methods for improving LMs. I currently try to accomplish my goals by constructing benchmarks that show us where there's room for improvement in language modeling, and by building systems that use language models to try and solve those tough benchmarks. 
 
 The weight tying method I developed is used today by almost all big language and translation models, including OpenAI's GPT, Google's BERT, [Apple's on-device LM](https://arxiv.org/html/2407.21075v1), and the translation models of Google, Microsoft, Meta and Amazon. 
@@ -23,9 +28,6 @@ In the final paper of my PhD we showed how to improve the ability of LMs to answ
 
 
 
-<div class="imgcap">
-<img src="/images/me.jpeg" style="width: 33%; height: 33%">
-</div>
 
 Before starting my PhD I completed my Bachelor's and Master's degrees in Computer Science at Tel Aviv University (where I was advised by [Lior Wolf](http://www.cs.tau.ac.il/~wolf/) and also worked with [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/)). Between my Bachelor's and Master's degrees I was a software developer for a year.
 
