@@ -31,7 +31,7 @@ In the final paper of my PhD we showed how to improve the ability of LMs to answ
 
 Before starting my PhD I completed my Bachelor's and Master's degrees in Computer Science at Tel Aviv University (where I was advised by [Lior Wolf](http://www.cs.tau.ac.il/~wolf/) and also worked with [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/)). Between my Bachelor's and Master's degrees I was a software developer for a year.
 
-My brother [Ori Press](https://oripress.com/) is a computer vision researcher. 
+My brother [Ori Press](https://oripress.com/) is a machine learning researcher. 
 
 ### Contact me
 
