@@ -4,20 +4,25 @@ title:
 permalink: /about/
 ---
 
-I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). I build tough benchmarks for LMs (i.e. [SWE-bench](http://swe-bench.com), [CiteMe](https://citeme.ai), [SciCode](https://scicode-bench.github.io/), [AssistantBench](https://assistantbench.github.io/)) and then I get the LMs to solve them (i.e. [SWE-agent](https://swe-agent.com)).
+I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). I try to make humans more productive by developing language model systems that can autonomously complete tasks, such as software engineering, answering complex research-level questions, and finding cybersecurity vulnerabilities. I'm working towards this goal by building tough benchmarks for LMs (i.e. [SWE-bench](http://swe-bench.com), [CiteMe](https://citeme.ai), [SciCode](https://scicode-bench.github.io/), [AssistantBench](https://assistantbench.github.io/)) and then developing LM-based agents to solve these benchmarks (i.e. [SWE-agent](https://swe-agent.com), [EnIGMA](https://enigma-agent.com/), SWE-agent Multimodal).
 
 Check out my [YouTube channel](https://www.youtube.com/@ofirpress/videos) for videos that explain my research and language modeling in general. 
 
+##### People I've Worked With
 I completed my PhD at the Paul G. Allen School for Computer Science & Engineering at the University of Washington, where I was very fortunate to be advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/). 
 
 During my PhD I spent two years as a visiting researcher at Facebook AI Research Labs on [Luke Zettlemoyer's](https://www.cs.washington.edu/people/faculty/lsz) team where I mainly worked with [Mike Lewis](https://ai.facebook.com/people/mike-lewis/). Prior to that, in the summer of 2019 I interned at Facebook AI Research with [Omer Levy](https://levyomer.wordpress.com/). Towards the end of my PhD I spent half a year as a visiting researcher at [MosaicML](https://www.mosaicml.com/) on [Jonathan Frankle's](http://www.jfrankle.com/) team.
+
+Before starting my PhD I completed my Bachelor's and Master's degrees in Computer Science at Tel Aviv University (where I was advised by [Lior Wolf](http://www.cs.tau.ac.il/~wolf/) and also worked with [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/)). Between my Bachelor's and Master's degrees I was a software developer for a year.
+
 
 <div class="imgcap">
 <img src="/images/me.jpeg" style="width: 33%; height: 33%">
 </div>
 
+##### My Background In Language Modeling
 
-I've been writing papers on neural language modeling since 2016. My focus is on making language models more useful to humans. In the first six years of my career I accomplished this by improving LM architectures without increasing their size or runtime. I then moved to working on better prompting methods for improving LMs. I currently try to accomplish my goals by constructing benchmarks that show us where there's room for improvement in language modeling, and by building systems that use language models to try and solve those tough benchmarks. 
+I've been writing papers on neural language modeling since 2016.  In the first six years of my career I focused on improving LM architectures without increasing their size or runtime. I then moved to working on better prompting methods for improving LMs.
 
 The weight tying method I developed is used today by almost all big language and translation models, including OpenAI's GPT, Google's BERT, [Apple's on-device LM](https://arxiv.org/html/2407.21075v1), and the translation models of Google, Microsoft, Meta and Amazon. 
 
@@ -26,14 +31,12 @@ Our ALiBi method showed for the first time how to efficiently enable LMs to hand
 In the final paper of my PhD we showed how to improve the ability of LMs to answer complex questions by simply using a better prompt. Our [self-ask](https://twitter.com/OfirPress/status/1577302733383925762) prompt has the language model ask and answer sub-questions about the input question before generating the final answer. The structure of the self-ask prompt allows us to easily plug in Google Search to answer the sub-questions, which further improves performance. 
 
 
+##### Misc.
 
-
-
-Before starting my PhD I completed my Bachelor's and Master's degrees in Computer Science at Tel Aviv University (where I was advised by [Lior Wolf](http://www.cs.tau.ac.il/~wolf/) and also worked with [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/)). Between my Bachelor's and Master's degrees I was a software developer for a year.
 
 My brother [Ori Press](https://oripress.com/) is a machine learning researcher. 
 
-### Contact me
+### Contact Me
 
 [ofirp@princeton.edu](mailto:ofirp@princeton.edu)
 <br>
@@ -41,8 +44,10 @@ My brother [Ori Press](https://oripress.com/) is a machine learning researcher.
 
 ### Mentees: 
 [Carlos Jimenez](https://www.carlosejimenez.com/) (2023- , Princeton PhD) <br>
-[John Yang](https://john-b-yang.github.io/) (2023- , Princeton MSc) <br>
-[Muru Zhang](https://nanami18.github.io/) (2022-2023, UWashington MSc) <br> 
+[John Yang](https://john-b-yang.github.io/) (2023- , Princeton MSc/RA) <br>
+[Kilian Lieret](https://www.lieret.net/) (2023- , Princeton RE) <br>
+[Talor Abramovich](https://www.linkedin.com/in/talor-abramovich-492a01214?originalSubdomain=il) (2024-2024, Tel-Aviv University MSc) <br>
+[Muru Zhang](https://nanami18.github.io/) (2022-2023, University of Washington MSc) <br> 
 
 ### Selected Works ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Ofir-Press/40170001))
 
