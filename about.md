@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). I try to make humans more productive by developing language model systems that can autonomously complete tasks, such as software engineering, answering complex research-level questions, and finding cybersecurity vulnerabilities. I'm working towards this goal by building tough benchmarks for LM systems (i.e. [SWE-bench](http://swe-bench.com), [CiteMe](https://citeme.ai), [SciCode](https://scicode-bench.github.io/), [AssistantBench](https://assistantbench.github.io/)) and then developing LM-based agents to solve these benchmarks (i.e. [SWE-agent](https://swe-agent.com), [EnIGMA](https://enigma-agent.com/), SWE-agent Multimodal).
+I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). My aim is to develop language model systems that can autonomously complete tasks, such as software engineering, answering complex research-level questions, or finding cybersecurity vulnerabilities. I'm working towards this goal by building frontier-pushing benchmarks for LM systems (i.e. [SWE-bench](http://swe-bench.com), [CiteMe](https://citeme.ai), [SciCode](https://scicode-bench.github.io/), [AssistantBench](https://assistantbench.github.io/)) and then developing LM-based autonomous agents to solve these benchmarks (i.e. [SWE-agent](https://swe-agent.com), [EnIGMA](https://enigma-agent.com/), SWE-agent Multimodal).
 
 Check out my [YouTube channel](https://www.youtube.com/@ofirpress/videos) for videos that explain my research and language modeling in general. 
 
