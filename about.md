@@ -6,6 +6,9 @@ permalink: /about/
 
 I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). My aim is to develop language model systems that can autonomously complete tasks, such as software engineering, answering complex research-level questions, or finding cybersecurity vulnerabilities. I'm working towards this goal by building frontier-pushing benchmarks for LM systems (i.e. [SWE-bench](http://swe-bench.com), [CiteMe](https://citeme.ai), [SciCode](https://scicode-bench.github.io/), [AssistantBench](https://assistantbench.github.io/)) and then developing LM-based autonomous agents to solve these benchmarks (i.e. [SWE-agent](https://swe-agent.com), [EnIGMA](https://enigma-agent.com/), SWE-agent Multimodal).
 
+Our SWE-bench, which tests AI systems ability to solve real software issues from popular GitHub repositories, has [been downloaded more than 2 million times](https://pepy.tech/projects/swebench?timeRange=threeMonths&category=version&includeCIDownloads=true&granularity=daily&viewType=chart&versions=2.1.7%2C2.1.6%2C2.1.5), and there are teams at OpenAI, Meta, Google, Anthropic, and many other academic & industry groups that develop systems for SWE-bench. 
+Our SWE-agent was the first open-source agent to beat the 10% accuracy threshold on SWE-bench, and is used by mutliple academic and industry teams, including at Anthropic, Meta, the Allen Institute for AI and others. 
+
 Check out my [YouTube channel](https://www.youtube.com/@ofirpress/videos) for videos that explain my research and language modeling in general. 
 
 ##### People I've Worked With
@@ -22,13 +25,13 @@ Before starting my PhD I completed my Bachelor's and Master's degrees in Compute
 
 ##### My Background In Language Modeling
 
-I've been writing papers on neural language modeling since 2016.  In the first six years of my career I focused on improving LM architectures without increasing their size or runtime. I then moved to working on better prompting methods for improving LMs.
+I've been writing papers on neural language modeling since 2016.  In the first six years of my career I focused on improving LM architectures without increasing their size or runtime. 
 
-The weight tying method I developed is used today by almost all big language and translation models, including OpenAI's GPT, Google's BERT, [Apple's on-device LM](https://arxiv.org/html/2407.21075v1), and the translation models of Google, Microsoft, Meta and Amazon. 
+The weight tying method I developed is used today by many popular language and translation models, including OpenAI's GPT, Google's BERT, [Apple's on-device LM](https://arxiv.org/html/2407.21075v1), and the translation models of Google, Microsoft, Meta and Amazon. 
 
 Our ALiBi method showed for the first time how to efficiently enable LMs to handle longer sequences at inference than the ones they were trained on. It has been adopted by BigScience's 176 billion parameter [BLOOM model](https://huggingface.co/bigscience/bloom), by the MPT series of models from MosaicML, by Replit's models and many others. 
 
-In the final paper of my PhD we showed how to improve the ability of LMs to answer complex questions by simply using a better prompt. Our [self-ask](https://twitter.com/OfirPress/status/1577302733383925762) prompt has the language model ask and answer sub-questions about the input question before generating the final answer. The structure of the self-ask prompt allows us to easily plug in Google Search to answer the sub-questions, which further improves performance. 
+In the final paper of my PhD we showed how to improve the ability of LMs to answer complex questions by simply using a better prompt. Our [self-ask](https://twitter.com/OfirPress/status/1577302733383925762) prompting method has the language model ask and answer sub-questions about the input question before generating the final answer. The structure of the self-ask prompt allows us to easily plug in Google Search to answer the sub-questions, which further improves performance. 
 
 
 ##### Misc.
