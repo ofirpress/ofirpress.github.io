@@ -6,6 +6,10 @@ permalink: /about/
 
 I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). My aim is to develop language model systems that can autonomously complete tasks, such as software engineering, answering complex research-level questions, or finding cybersecurity vulnerabilities. I'm working towards this goal by building frontier-pushing benchmarks for LM systems (i.e. [SWE-bench](http://swe-bench.com), [CiteMe](https://citeme.ai), [SciCode](https://scicode-bench.github.io/), [AssistantBench](https://assistantbench.github.io/)) and then developing LM-based autonomous agents to solve these benchmarks (i.e. [SWE-agent](https://swe-agent.com), [EnIGMA](https://enigma-agent.com/), SWE-agent Multimodal).
 
+<div class="imgcap">
+<img src="/images/me.jpeg" style="width: 33%; height: 33%">
+</div>
+
 Our SWE-bench, which tests AI systems ability to solve real software issues from popular GitHub repositories, has [been downloaded more than 2 million times](https://pepy.tech/projects/swebench?timeRange=threeMonths&category=version&includeCIDownloads=true&granularity=daily&viewType=chart&versions=2.1.7%2C2.1.6%2C2.1.5), and there are teams at OpenAI, Meta, Google, Anthropic, and many other academic & industry groups that develop systems for SWE-bench. 
 Our SWE-agent was the first open-source agent to beat the 10% accuracy threshold on SWE-bench, and is used by mutliple academic and industry teams, including at Anthropic, Meta, the Allen Institute for AI and others. 
 
@@ -19,9 +23,7 @@ During my PhD I spent two years as a visiting researcher at Facebook AI Research
 Before starting my PhD I completed my Bachelor's and Master's degrees in Computer Science at Tel Aviv University (where I was advised by [Lior Wolf](http://www.cs.tau.ac.il/~wolf/) and also worked with [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/)). Between my Bachelor's and Master's degrees I was a software developer for a year.
 
 
-<div class="imgcap">
-<img src="/images/me.jpeg" style="width: 33%; height: 33%">
-</div>
+
 
 ##### My Background In Language Modeling
 
