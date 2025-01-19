@@ -33,9 +33,9 @@ I've been writing papers on neural language modeling since 2016.  In the first s
 
 The weight tying method I developed is used today by many popular language and translation models, including OpenAI's GPT, Google's BERT, [Apple's on-device LM](https://arxiv.org/html/2407.21075v1), and the translation models of Google, Microsoft, Meta and Amazon. 
 
-Our ALiBi method showed for the first time how to efficiently enable LMs to handle longer sequences at inference than the ones they were trained on. It has been adopted by BigScience's 176 billion parameter [BLOOM model](https://huggingface.co/bigscience/bloom), by the MPT series of models from MosaicML, by Replit's models and many others. 
+Our ALiBi method showed for the first time how to efficiently enable LMs to handle longer sequences at inference than the ones they were trained on. It has been adopted by BigScience's 176 billion parameter [BLOOM model](https://huggingface.co/bigscience/bloom), by the MPT series of models from MosaicML, by Replit's models and many others. It is also used by multiple vision and speech models, including Meta's [Audiobox model](https://arxiv.org/abs/2312.15821).  
 
-In the final paper of my PhD we showed how to improve the ability of LMs to answer complex questions by simply using a better prompt. Our [self-ask](https://twitter.com/OfirPress/status/1577302733383925762) prompting method has the language model ask and answer sub-questions about the input question before generating the final answer. The structure of the self-ask prompt allows us to easily plug in Google Search to answer the sub-questions, which further improves performance. 
+In the final paper of my PhD we showed how to improve the ability of LMs to answer complex questions by simply using a better prompt. Our [self-ask](https://twitter.com/OfirPress/status/1577302733383925762) prompting method has the language model ask and answer sub-questions about the input question before generating the final answer. The structure of the self-ask prompt allows us to easily plug in Google Search to answer the sub-questions, which further improves performance. This system was an early precursor to the LM-based web-browsing agents that are popular today.  
 
 
 ##### Misc.
