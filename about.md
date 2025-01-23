@@ -59,11 +59,11 @@ My brother [Ori Press](https://oripress.com/) is a machine learning researcher.
 ### Selected Works ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Ofir-Press/40170001))
 
 [SWE-bench Multimodal](https://www.swebench.com/multimodal.html) <br>
-John Yang*, Carlos E. Jimenez*, Alex L. Zhang, Kilian Lieret, Joyce Yang, Xindi Wu, Ori Press, Niklas Muennighoff, Gabriel Synnaeve, Karthik Narasimhan, Diyi Yang, Sida I. Wang, Ofir Press <br>
+John Yang\*, Carlos E. Jimenez\*, Alex L. Zhang, Kilian Lieret, Joyce Yang, Xindi Wu, Ori Press, Niklas Muennighoff, Gabriel Synnaeve, Karthik Narasimhan, Diyi Yang, Sida I. Wang, Ofir Press <br>
 ICLR 2025 <br>
 
 [SciCode](https://scicode-bench.github.io/) <br>
-Minyang Tian*, Luyu Gao*, Shizhuo Dylan Zhang, Xinan Chen, Cunwei Fan, Xuefei Guo, Roland Haas, Pan Ji, Kittithat Krongchon, Yao Li, Shengyan Liu, Di Luo, Yutao Ma, Hao Tong, Kha Trinh, Chenyu Tian, Zihan Wang, Bohao Wu, Yanyu Xiong, Shengzhu Yin, Minhui Zhu, Kilian Lieret, Yanxin Lu, Genglin Liu, Yufeng Du, Tianhua Tao, **Ofir Press**, Jamie Callan, Eliu Huerta, Hao Peng <br>
+Minyang Tian\*, Luyu Gao\*, Shizhuo Dylan Zhang, Xinan Chen, Cunwei Fan, Xuefei Guo, Roland Haas, Pan Ji, Kittithat Krongchon, Yao Li, Shengyan Liu, Di Luo, Yutao Ma, Hao Tong, Kha Trinh, Chenyu Tian, Zihan Wang, Bohao Wu, Yanyu Xiong, Shengzhu Yin, Minhui Zhu, Kilian Lieret, Yanxin Lu, Genglin Liu, Yufeng Du, Tianhua Tao, **Ofir Press**, Jamie Callan, Eliu Huerta, Hao Peng <br>
 NeurIPS 2024 <br>
 
 
@@ -72,18 +72,18 @@ Ori Yoran, Samuel Joseph Amouyal, Chaitanya Malaviya, Ben Bogin, **Ofir Press**,
 EMNLP 2024 <br>
 
 [CiteME](https://www.citeme.ai/) <br>
-Ori Press*, Andreas Hochlehnert*, Ameya Prabhu, Vishaal Udandarao, **Ofir Press**, Matthias Bethge <br>
+Ori Press\*, Andreas Hochlehnert\*, Ameya Prabhu, Vishaal Udandarao, **Ofir Press**, Matthias Bethge <br>
 NeurIPS 2024 <br>
 
 
 [SWE-agent](https://swe-agent.com) <br>
-John Yang*, Carlos E. Jimenez*, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, **Ofir Press** <br>
+John Yang\*, Carlos E. Jimenez\*, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, **Ofir Press** <br>
 NeurIPS 2024 <br>
 [[website]](https://swe-agent.com) <br>
 
 
 [SWE-bench](https://swebench.com) <br>
-Carlos E. Jimenez*, John Yang*, Alexander Wettig, Shunyu Yao, Kexin Pei, **Ofir Press**, Karthik Narasimhan <br>
+Carlos E. Jimenez\*, John Yang\*, Alexander Wettig, Shunyu Yao, Kexin Pei, **Ofir Press**, Karthik Narasimhan <br>
 ICLR 2024 (Oral) <br>
 [[website]](https://swebench.com) <br>
 
