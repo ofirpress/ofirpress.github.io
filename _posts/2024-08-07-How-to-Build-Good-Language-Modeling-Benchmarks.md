@@ -42,8 +42,10 @@ Summarization is a task that I think could be super useful for humans (“Write 
 
 #### 3.  Challenging
 If you launch an automatically evaluatable and natural benchmark, but the accuracy of the best LM at launch is 80%, people will see your benchmark as already being *solved* and won’t want to try and build models to improve performance on it. I think making your benchmarking challenging is critical. I think that at launch, a good benchmark should have the top LMs achieving between 1% to 35% accuracy on it.
+
+*Edit, January 2025: Due to the extremely fast development of LMs these days, I currently recommend that benchmark builders launch their benchmarks with the top accuracy being between 0.1% to 9%. Anything higher probably means that the benchmark is too easy.* 
     
-If you find a benchmark idea and build it out and it’s natural and automatically evaluateable but you build a baseline and it gets 70% right, one thing you might want to consider doing is to use that baseline to **filter-out the easier instances** in the benchmark. For example, our [Bamboogle benchmark](https://ofir.io/The-Bamboogle-Dataset/) had tough-to-answer 2-hop questions, and we built the dataset by filtering out all questions that Google Search answered correctly. For CiteME, we filtered out all questions that GPT-4o managed to answer correctly in a prompting-only setting (i.e. non-agentic). I think that building benchmarks by finding tasks that a baseline approach can’t solve is a great way to go.
+If you find a benchmark idea and build it out and it’s natural and automatically evaluateable but you build a baseline and it gets 70% right, one thing you might want to consider doing is to use that baseline to **filter-out the easier instances** in the benchmark. For example, our [Bamboogle benchmark](https://ofir.io/The-Bamboogle-Dataset/) had tough-to-answer 2-hop questions, and we built the dataset by filtering out all questions that Google Search answered correctly. For CiteME, we filtered out all questions that GPT-4o managed to answer correctly in a prompting-only setting (i.e. non-agentic). I think that building benchmarks by finding tasks that a strong existing approach can’t solve is a great way to go.
 
   
 
