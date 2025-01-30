@@ -51,6 +51,8 @@ My brother [Ori Press](https://oripress.com/) is a machine learning researcher.
 
 ### Mentees: 
 During my PhD and Postdoc I've collaborated with over 20 **amazing** undergrad, masters, and PhD students. This list contains collaborators that have worked with me on more than a single project. 
+<br>
+
 [Carlos Jimenez](https://www.carlosejimenez.com/) (2023- , Princeton PhD) <br>
 [John Yang](https://john-b-yang.github.io/) (2023- , Princeton MSc/RA --> Stanford PhD) <br>
 [Kilian Lieret](https://www.lieret.net/) (2023- , Princeton RE) <br>
