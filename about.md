@@ -50,9 +50,11 @@ My brother [Ori Press](https://oripress.com/) is a machine learning researcher.
 [@ofirpress on Twitter](https://twitter.com/OfirPress)
 
 ### Mentees: 
+During my PhD and Postdoc I've collaborated with over 20 **amazing** undergrad, masters, and PhD students. This list contains collaborators that have worked with me on more than a single project. 
 [Carlos Jimenez](https://www.carlosejimenez.com/) (2023- , Princeton PhD) <br>
-[John Yang](https://john-b-yang.github.io/) (2023- , Princeton MSc/RA) <br>
+[John Yang](https://john-b-yang.github.io/) (2023- , Princeton MSc/RA --> Stanford PhD) <br>
 [Kilian Lieret](https://www.lieret.net/) (2023- , Princeton RE) <br>
+[Ori Press](https://oripress.com/) (2024-, University of Tübingen PhD) <br>
 [Talor Abramovich](https://www.linkedin.com/in/talor-abramovich-492a01214?originalSubdomain=il) (2024-2024, Tel-Aviv University MSc) <br>
 [Muru Zhang](https://nanami18.github.io/) (2022-2023, University of Washington MSc) <br> 
 
