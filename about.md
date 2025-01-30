@@ -93,7 +93,7 @@ ICML 2024 <br>
 [[paper]](https://arxiv.org/abs/2305.13534) <br>
 
 [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/abs/2210.03350) <br>
-Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis <br>
+**Ofir Press**, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis <br>
 Findings of EMNLP 2023 <br>
 [[paper]](https://arxiv.org/pdf/2210.03350.pdf) [[code]](https://github.com/ofirpress/self-ask) [[datasets (Compositional Celebrities, Bamboogle)]](https://github.com/ofirpress/self-ask/tree/main/datasets) [[bib]](https://aclanthology.org/2023.findings-emnlp.378.bib) <br>
 [[Self-ask & Self-ask + Google Search demo video, 2 min]](https://ofir.io/Self-ask-prompting/) <br>
@@ -103,7 +103,7 @@ Findings of EMNLP 2023 <br>
 
 
 [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://openreview.net/forum?id=R8sQPpGCv0) <br>
-Ofir Press, Noah A. Smith, Mike Lewis <br>
+**Ofir Press**, Noah A. Smith, Mike Lewis <br>
 ICLR 2022 <br>
 <span style="color:DarkRed">ALiBi is the position embedding method of BigScience's BLOOM model, MosaicML's LMs, Replit's LMs, and many others.</span> <br>
 [[paper]](https://openreview.net/pdf?id=R8sQPpGCv0) [[code]](https://github.com/ofirpress/attention_with_linear_biases) [[FAQ]](https://github.com/ofirpress/attention_with_linear_biases/#faq) [[bib]](https://github.com/ofirpress/attention_with_linear_biases#citation) <br>
@@ -111,26 +111,26 @@ ICLR 2022 <br>
 [[ICLR video (summarizes the important bits, 5 min)]](https://iclr.cc/virtual/2022/poster/6261)<br>
 
 [Shortformer: Better Language Modeling using Shorter Inputs](https://aclanthology.org/2021.acl-long.427/) <br>
-Ofir Press, Noah A. Smith, Mike Lewis <br>
+**Ofir Press**, Noah A. Smith, Mike Lewis <br>
 ACL 2021 <br>
 [[paper]](https://aclanthology.org/2021.acl-long.427.pdf) [[code]](https://github.com/ofirpress/shortformer) [[bib]](https://aclanthology.org/2021.acl-long.427.bib) <br> 
 [[ACL video (summarizes the important bits, 12 min)]](https://screencast-o-matic.com/watch/cr1ZexV1tlA) 
 [[video (detailed overview, 1 hour)]](https://www.youtube.com/watch?v=j9gl4txW4xo)<br>
 
 [Improving Transformer Models by Reordering their Sublayers](https://www.aclweb.org/anthology/2020.acl-main.270/) <br>
-Ofir Press, Noah A. Smith, Omer Levy <br>
+**Ofir Press**, Noah A. Smith, Omer Levy <br>
 ACL 2020 <br>
 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.270.pdf) [[summary]](https://ofir.io/Improving-Transformer-Models-by-Reordering-their-Sublayers/) [[code]](https://github.com/ofirpress/sandwich_transformer)  [[bib]](https://www.aclweb.org/anthology/2020.acl-main.270.bib) <br>
 [[ACL video (summarizes the important bits, 12 min)]](https://slideslive.com/38928925/improving-transformer-models-by-reordering-their-sublayers) [[video (detailed overview, 35 min)]](https://www.youtube.com/watch?v=rFuuGEj3AhU)  <br>
 
 [Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/abs/1706.01399)  <br>
-Ofir Press\*, Amir Bar\*, Ben Bogin\*, Jonathan Berant, Lior Wolf  <br>
+**Ofir Press**\*, Amir Bar\*, Ben Bogin\*, Jonathan Berant, Lior Wolf  <br>
 1st Workshop on Learning to Generate Natural Language at ICML 2017 <br>
 [[paper]](https://arxiv.org/abs/1706.01399) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/PressBBBW17&a=ofirpress) [[code]](https://github.com/amirbar/rnn.wgan)  [[bib]](https://github.com/amirbar/rnn.wgan#reference) <br> 
 
 
 [Using the Output Embedding to Improve Language Models](https://www.aclweb.org/anthology/E17-2025) <br>
-Ofir Press, Lior Wolf <br>
+**Ofir Press**, Lior Wolf <br>
 EACL 2017 <br>
 <span style="color:DarkRed">Introduced the **weight tying** method which is now used in GPT, BERT and many other state of the art language & translation models.</span> <br>
 [[paper]](https://www.aclweb.org/anthology/E17-2025.pdf) [[summary]](https://www.shortscience.org/paper?bibtexKey=10.18653/v1/e17-2025&a=ofirpress) [[blog post]](https://ofir.io/Neural-Language-Modeling-From-Scratch/#weight-tying)  [[code]](https://github.com/ofirpress/UsingTheOutputEmbedding)  [[bib]](https://www.aclweb.org/anthology/E17-2025.bib) <br> 
@@ -138,12 +138,12 @@ EACL 2017 <br>
 
 #### Technical Reports
 [Partially Shuffling the Training Data to Improve Language Models](https://arxiv.org/abs/1903.04167) <br>
-Ofir Press <br>
+**Ofir Press** <br>
 Preprint, 2019 <br>
 [[preprint]](https://arxiv.org/abs/1903.04167) [[code]](https://github.com/ofirpress/PartialShuffle) [[bib]](https://github.com/ofirpress/PartialShuffle#reference) <br>
 
 [You May Not Need Attention](https://arxiv.org/abs/1810.13409)  <br>
-Ofir Press, Noah A. Smith  <br>
+**Ofir Press**, Noah A. Smith  <br>
 Preprint, 2018 <br>
 [[preprint]](https://arxiv.org/abs/1810.13409) [[summary]](https://www.shortscience.org/paper?bibtexKey=journals/corr/1810.13409&a=ofirpress)  [[code]](https://github.com/ofirpress/YouMayNotNeedAttention)  [[bib]](https://github.com/ofirpress/YouMayNotNeedAttention#reference)  <br> 
 
