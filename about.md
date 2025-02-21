@@ -4,14 +4,14 @@ title:
 permalink: /about/
 ---
 
-I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). My aim is to develop language model systems that can autonomously complete tasks end-to-end, including software engineering, answering complex research-level questions, or finding cybersecurity vulnerabilities. I'm working towards this goal by building frontier-pushing benchmarks for LM systems (i.e. [SWE-bench](http://swe-bench.com), [CiteMe](https://citeme.ai), [SciCode](https://scicode-bench.github.io/), [AssistantBench](https://assistantbench.github.io/)) and then developing LM-based autonomous agents to solve these benchmarks (i.e. [SWE-agent](https://swe-agent.com), [EnIGMA](https://enigma-agent.com/), SWE-agent Multimodal).
+I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). My aim is to develop language model systems that can autonomously complete tasks end-to-end, including software engineering, answering complex research-level questions, or finding cybersecurity vulnerabilities. I'm working towards this goal by building frontier-pushing benchmarks for LM systems (i.e. [SWE-bench](http://swe-bench.com), [CiteMe](https://citeme.ai), [SciCode](https://scicode-bench.github.io/), [AssistantBench](https://assistantbench.github.io/)) and then developing LM-based autonomous agents to solve these benchmarks (i.e. [SWE-agent](https://swe-agent.com), [SWE-agent EnIGMA](https://enigma-agent.com/), SWE-agent Multimodal).
 
 <div class="imgcap">
 <img src="/images/me.jpeg" style="width: 33%; height: 33%">
 </div>
 
-Our SWE-bench, which tests AI systems ability to solve real software issues from popular GitHub repositories, has [been downloaded more than 2 million times](https://pepy.tech/projects/swebench?timeRange=threeMonths&category=version&includeCIDownloads=true&granularity=daily&viewType=chart&versions=2.1.7%2C2.1.6%2C2.1.5), and there are teams at OpenAI, Meta, Google, Anthropic, and many other academic & industry groups that develop systems for SWE-bench. 
-Our SWE-agent was the first open-source agent to beat the 10% accuracy threshold on SWE-bench, and is used by mutliple academic and industry teams, including at [Google](https://arxiv.org/abs/2501.07531), [Anthropic](https://www.anthropic.com/research/swe-bench-sonnet), Meta, [The Allen Institute for AI](https://arxiv.org/abs/2409.07440), [ETH Zurich](https://arxiv.org/abs/2406.12952) and others. 
+Our SWE-bench, which tests AI systems ability to solve real software issues from popular GitHub repositories, has [been downloaded more than 2 million times](https://pepy.tech/projects/swebench?timeRange=threeMonths&category=version&includeCIDownloads=true&granularity=daily&viewType=chart&versions=2.1.7%2C2.1.6%2C2.1.5), and there are teams at OpenAI, Meta, Google, Anthropic and many other academic & industry groups that develop systems for SWE-bench. 
+Our SWE-agent was the first open-source agent to beat the 10% accuracy threshold on SWE-bench, and is used by mutliple academic and industry teams, including at [Google](https://arxiv.org/abs/2501.07531), [Anthropic](https://www.anthropic.com/research/swe-bench-sonnet), [Meta](https://arxiv.org/abs/2502.14499), [The Allen Institute for AI](https://arxiv.org/abs/2409.07440), [ETH Zurich](https://arxiv.org/abs/2406.12952) and others. 
 
 Check out my [YouTube channel](https://www.youtube.com/@ofirpress/videos) for videos that explain my research and language modeling in general. 
 
@@ -25,6 +25,16 @@ During my PhD I spent two years as a visiting researcher at Facebook AI Research
 Before starting my PhD I completed my Bachelor's and Master's degrees in Computer Science at Tel Aviv University (where I was advised by [Lior Wolf](http://www.cs.tau.ac.il/~wolf/) and also worked with [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/)). Between my Bachelor's and Master's degrees I was a software developer for a year.
 
 
+##### Mentees: 
+During my PhD and Postdoc I've collaborated with over 20 **amazing** undergrad, masters, and PhD students. This list contains collaborators that have worked with me on more than a single project. 
+<br>
+
+[Carlos Jimenez](https://www.carlosejimenez.com/) (2023- , Princeton PhD) <br>
+[John Yang](https://john-b-yang.github.io/) (2023- , Princeton MSc/RA --> Stanford PhD) <br>
+[Kilian Lieret](https://www.lieret.net/) (2023- , Princeton RE) <br>
+[Ori Press](https://oripress.com/) (2024-, University of Tübingen PhD) <br>
+[Talor Abramovich](https://www.linkedin.com/in/talor-abramovich-492a01214?originalSubdomain=il) (2024-2024, Tel-Aviv University MSc) <br>
+[Muru Zhang](https://nanami18.github.io/) (2022-2023, University of Washington MSc) <br> 
 
 
 ##### My Background In Language Modeling
@@ -49,16 +59,7 @@ My brother [Ori Press](https://oripress.com/) is a machine learning researcher.
 <br>
 [@ofirpress on Twitter](https://twitter.com/OfirPress)
 
-### Mentees: 
-During my PhD and Postdoc I've collaborated with over 20 **amazing** undergrad, masters, and PhD students. This list contains collaborators that have worked with me on more than a single project. 
-<br>
 
-[Carlos Jimenez](https://www.carlosejimenez.com/) (2023- , Princeton PhD) <br>
-[John Yang](https://john-b-yang.github.io/) (2023- , Princeton MSc/RA --> Stanford PhD) <br>
-[Kilian Lieret](https://www.lieret.net/) (2023- , Princeton RE) <br>
-[Ori Press](https://oripress.com/) (2024-, University of Tübingen PhD) <br>
-[Talor Abramovich](https://www.linkedin.com/in/talor-abramovich-492a01214?originalSubdomain=il) (2024-2024, Tel-Aviv University MSc) <br>
-[Muru Zhang](https://nanami18.github.io/) (2022-2023, University of Washington MSc) <br> 
 
 ### Selected Works ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Ofir-Press/40170001))
 
