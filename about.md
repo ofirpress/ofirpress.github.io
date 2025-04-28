@@ -25,7 +25,7 @@ During my PhD and Postdoc I've collaborated with over 20 **amazing** undergrad, 
 [Kilian Lieret](https://www.lieret.net/) (2023- , Princeton RE) <br>
 [Ori Press](https://oripress.com/) (2024-, University of Tübingen PhD) <br>
 [Minyang Tian](https://www.linkedin.com/in/minyang-tian/) (2024-, UIUC PhD) <br>
-[Alex Zhang](https://alexzhang13.github.io/) (2024-, Princeton Undergrad) <br>
+[Alex L. Zhang](https://alexzhang13.github.io/) (2024-, Princeton Undergrad) <br>
 [Talor Abramovich](https://www.linkedin.com/in/talor-abramovich-492a01214?originalSubdomain=il) (2024-2024, Tel-Aviv University MSc) <br>
 [Muru Zhang](https://nanami18.github.io/) (2022-2023, University of Washington MSc) <br> 
 
