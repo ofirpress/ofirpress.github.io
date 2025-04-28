@@ -15,6 +15,20 @@ Our SWE-agent was the first open-source agent to beat the 10% accuracy threshold
 
 Check out my [YouTube channel](https://www.youtube.com/@ofirpress/videos) for videos that explain my research and language modeling in general. 
 
+
+##### Mentees: 
+During my PhD and Postdoc I've collaborated with over 20 **amazing** undergrad, masters, and PhD students. This list contains collaborators that have worked with me on more than a single project. 
+<br>
+
+[Carlos Jimenez](https://www.carlosejimenez.com/) (2023- , Princeton PhD) <br>
+[John Yang](https://john-b-yang.github.io/) (2023- , Princeton MSc/RA --> Stanford PhD) <br>
+[Kilian Lieret](https://www.lieret.net/) (2023- , Princeton RE) <br>
+[Ori Press](https://oripress.com/) (2024-, University of Tübingen PhD) <br>
+[Minyang Tian](https://www.linkedin.com/in/minyang-tian/) (2024-, UIUC PhD) <br>
+[Alex Zhang](https://alexzhang13.github.io/) (2024-, Princeton Undergrad) <br>
+[Talor Abramovich](https://www.linkedin.com/in/talor-abramovich-492a01214?originalSubdomain=il) (2024-2024, Tel-Aviv University MSc) <br>
+[Muru Zhang](https://nanami18.github.io/) (2022-2023, University of Washington MSc) <br> 
+
 ##### People I've Worked With
 During my postdoc I work with [Karthik Narasimhan's](https://www.cs.princeton.edu/~karthikn/) group at Princeton University. 
 
@@ -25,16 +39,7 @@ During my PhD I spent two years as a visiting researcher at Facebook AI Research
 Before starting my PhD I completed my Bachelor's and Master's degrees in Computer Science at Tel Aviv University (where I was advised by [Lior Wolf](http://www.cs.tau.ac.il/~wolf/) and also worked with [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/)). Between my Bachelor's and Master's degrees I was a software developer for a year.
 
 
-##### Mentees: 
-During my PhD and Postdoc I've collaborated with over 20 **amazing** undergrad, masters, and PhD students. This list contains collaborators that have worked with me on more than a single project. 
-<br>
 
-[Carlos Jimenez](https://www.carlosejimenez.com/) (2023- , Princeton PhD) <br>
-[John Yang](https://john-b-yang.github.io/) (2023- , Princeton MSc/RA --> Stanford PhD) <br>
-[Kilian Lieret](https://www.lieret.net/) (2023- , Princeton RE) <br>
-[Ori Press](https://oripress.com/) (2024-, University of Tübingen PhD) <br>
-[Talor Abramovich](https://www.linkedin.com/in/talor-abramovich-492a01214?originalSubdomain=il) (2024-2024, Tel-Aviv University MSc) <br>
-[Muru Zhang](https://nanami18.github.io/) (2022-2023, University of Washington MSc) <br> 
 
 
 ##### My Background In Language Modeling
@@ -62,6 +67,8 @@ My brother [Ori Press](https://oripress.com/) is a machine learning researcher.
 
 
 ### Selected Works ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Ofir-Press/40170001))
+
+We have a new research preview for our [Video Game Benchmark](vgbench.com) which tasks vision-language models with playing popular games from the 90s. Full release coming soon! <br> 
 
 [SWE-bench Multimodal](https://www.swebench.com/multimodal.html) <br>
 John Yang\*, Carlos E. Jimenez\*, Alex L. Zhang, Kilian Lieret, Joyce Yang, Xindi Wu, Ori Press, Niklas Muennighoff, Gabriel Synnaeve, Karthik Narasimhan, Diyi Yang, Sida I. Wang, **Ofir Press**<br>
