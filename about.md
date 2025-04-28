@@ -68,7 +68,7 @@ My brother [Ori Press](https://oripress.com/) is a machine learning researcher.
 
 ### Selected Works ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Ofir-Press/40170001))
 
-*April 2025:* We have a new research preview for our [Video Game Benchmark](vgbench.com) which tasks vision-language models with playing popular games from the 90s. Full release coming soon! <br> 
+*April 2025:* We have a new research preview for our [Video Game Benchmark](https://www.vgbench.com/) which tasks vision-language models with playing popular games from the 90s. Full release coming soon! <br> 
 
 [SWE-bench Multimodal](https://www.swebench.com/multimodal.html) <br>
 John Yang\*, Carlos E. Jimenez\*, Alex L. Zhang, Kilian Lieret, Joyce Yang, Xindi Wu, Ori Press, Niklas Muennighoff, Gabriel Synnaeve, Karthik Narasimhan, Diyi Yang, Sida I. Wang, **Ofir Press**<br>
