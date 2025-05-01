@@ -70,6 +70,10 @@ My brother [Ori Press](https://oripress.com/) is a machine learning researcher.
 
 *April 2025:* We have a new research preview for our [Video Game Benchmark](https://www.vgbench.com/) which tasks vision-language models with playing popular games from the 90s. Full release coming soon! <br> 
 
+[Interactive Tools Substantially Assist LM Agents in Finding Security Vulnerabilities](https://enigma-agent.com/) <br>
+Talor Abramovich, Meet Udeshi, Minghao Shao, Kilian Lieret, Haoran Xi, Kimberly Milner, Sofija Jancheska, John Yang, Carlos E. Jimenez, Farshad Khorrami, Prashanth Krishnamurthy, Brendan Dolan-Gavitt, Muhammad Shafique, Karthik Narasimhan, Ramesh Karri, **Ofir Press** <br>
+ICML 2025 <br>
+
 [SWE-bench Multimodal](https://www.swebench.com/multimodal.html) <br>
 John Yang\*, Carlos E. Jimenez\*, Alex L. Zhang, Kilian Lieret, Joyce Yang, Xindi Wu, Ori Press, Niklas Muennighoff, Gabriel Synnaeve, Karthik Narasimhan, Diyi Yang, Sida I. Wang, **Ofir Press**<br>
 ICLR 2025 <br>
