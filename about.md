@@ -21,7 +21,7 @@ During my PhD and Postdoc I've collaborated with over 20 **amazing** undergrad, 
 <br>
 
 [Carlos Jimenez](https://www.carlosejimenez.com/) (2023- , Princeton PhD) <br>
-[John Yang](https://john-b-yang.github.io/) (2023- , Princeton MSc/RA --> Stanford PhD) <br>
+[John Yang](https://john-b-yang.github.io/) (2023- , Princeton MSc/RA -> Stanford PhD) <br>
 [Kilian Lieret](https://www.lieret.net/) (2023- , Princeton RE) <br>
 [Ori Press](https://oripress.com/) (2024-, University of Tübingen PhD) <br>
 [Minyang Tian](https://www.linkedin.com/in/minyang-tian/) (2024-, UIUC PhD) <br>
@@ -68,7 +68,12 @@ My brother [Ori Press](https://oripress.com/) is a machine learning researcher.
 
 ### Selected Works ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Ofir-Press/40170001))
 
-*April 2025:* We have a new research preview for our [Video Game Benchmark](https://www.vgbench.com/) which tasks vision-language models with playing popular games from the 90s. Full release coming soon! <br> 
+*June 2025:* We have an exciting new coding benchmark coming out in the next few weeks, stay tuned :) <br> 
+
+[VideoGameBench: Can Vision-Language Models complete popular video games?](https://vgbench.com/) <br>
+Alex L. Zhang, Thomas L. Griffiths, Karthik R. Narasimhan, **Ofir Press** <br>
+Under Review <br>
+
 
 [Interactive Tools Substantially Assist LM Agents in Finding Security Vulnerabilities](https://enigma-agent.com/) <br>
 Talor Abramovich, Meet Udeshi, Minghao Shao, Kilian Lieret, Haoran Xi, Kimberly Milner, Sofija Jancheska, John Yang, Carlos E. Jimenez, Farshad Khorrami, Prashanth Krishnamurthy, Brendan Dolan-Gavitt, Muhammad Shafique, Karthik Narasimhan, Ramesh Karri, **Ofir Press** <br>
