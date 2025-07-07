@@ -1,4 +1,4 @@
----
+d---
 layout: page
 title: 
 permalink: /about/
@@ -68,12 +68,18 @@ My brother [Ori Press](https://oripress.com/) is a machine learning researcher.
 
 ### Selected Works ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Ofir-Press/40170001))
 
-*June 2025:* We have an exciting new coding benchmark coming out in the next few weeks, stay tuned :) <br> 
+
+[AlgoTune: Can Language Models Speed Up General-Purpose Numerical Programs?](https://algotune.io/) <br>
+Ori Press, Brandon Amos, Haoyu Zhao, Yikai Wu, Samuel Ainsworth, Dominik Krupke, Patrick Kidger, Touqir Sajed, Bartolomeo Stellato, Jisun Park, Nathanael Bosch, Eli Meril, Albert Steppi, Arman Zharmagambetov, Fangzhao Zhang, David Pérez-Piñeiro, Alberto Mercurio, Ni Zhan, Talor Abramovich, Kilian Lieret, Hanlin Zhang, Shirley Huang, Matthias Bethge, **Ofir Press** <br>
+Under Review <br>
 
 [VideoGameBench: Can Vision-Language Models complete popular video games?](https://vgbench.com/) <br>
 Alex L. Zhang, Thomas L. Griffiths, Karthik R. Narasimhan, **Ofir Press** <br>
 Under Review <br>
 
+[SWE-smith: Scaling Data for Software Engineering Agents](https://swesmith.com/) <br>
+John Yang, Kilian Lieret, Carlos E. Jimenez, Alexander Wettig, Kabir Khandpur, Yanzhe Zhang, Binyuan Hui, **Ofir Press**, Ludwig Schmidt, Diyi Yang <br>
+Under Review <br>
 
 [Interactive Tools Substantially Assist LM Agents in Finding Security Vulnerabilities](https://enigma-agent.com/) <br>
 Talor Abramovich, Meet Udeshi, Minghao Shao, Kilian Lieret, Haoran Xi, Kimberly Milner, Sofija Jancheska, John Yang, Carlos E. Jimenez, Farshad Khorrami, Prashanth Krishnamurthy, Brendan Dolan-Gavitt, Muhammad Shafique, Karthik Narasimhan, Ramesh Karri, **Ofir Press** <br>
