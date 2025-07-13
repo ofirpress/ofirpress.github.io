@@ -4,7 +4,11 @@ title:
 permalink: /about/
 ---
 
-I am a postdoc at Princeton's [PLI](https://pli.princeton.edu/). My aim is to develop language model systems that can autonomously complete tasks end-to-end, including software engineering, answering complex research-level questions, or finding cybersecurity vulnerabilities. I'm working towards this goal by building frontier-pushing benchmarks for LM systems (i.e. [SWE-bench](http://swe-bench.com), [CiteMe](https://citeme.ai), [SciCode](https://scicode-bench.github.io/), [AssistantBench](https://assistantbench.github.io/)) and then developing LM-based autonomous agents to solve these benchmarks (i.e. [SWE-agent](https://swe-agent.com), [SWE-agent EnIGMA](https://enigma-agent.com/), SWE-agent Multimodal).
+I am a postdoc at Princeton University's [PLI](https://pli.princeton.edu/). My aim is to develop language model systems that can autonomously complete tasks end-to-end, including software engineering, optimizing code runtime and finding cybersecurity vulnerabilities. My main focus area is coding, since I believe that it's currently the most important and challenging area in AI, but I occasionally do research in other areas, including complex question answering. 
+I'm working towards this goal by doing the following 3 things:
+1) Building frontier-pushing benchmarks for LM systems (i.e. [SWE-bench (software engineering)](http://swe-bench.com), [SciCode (PhD-level physics coding)](https://scicode-bench.github.io/), [AlgoTune (software runtime optimization)](https://algotune.io/))
+2) Developing LM-based agents to help frontier LMs do better on these benchmarks (i.e. [SWE-agent](https://swe-agent.com))
+3) Developing synthetic data pipelines and finetuning methods to help small LMs do better on these benchmarks (i.e. [SWE-smith](https://swesmith.com/))
 
 <div class="imgcap">
 <img src="/images/me.jpeg" style="width: 33%; height: 33%">
