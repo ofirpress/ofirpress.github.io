@@ -17,8 +17,8 @@ Check out my [YouTube channel](https://www.youtube.com/@ofirpress/videos) for vi
 
 
 ##### Mentees: 
-During my PhD and Postdoc I've collaborated with over 20 **amazing** undergrad, masters, and PhD students. This list contains collaborators that have worked with me on more than a single project. 
-<br>
+During my PhD and Postdoc I've collaborated with over 30 **amazing** undergrad, masters, and PhD students. This list contains collaborators that have worked with me on more than a single project. 
+<br> <!--33-->
 
 [Carlos Jimenez](https://www.carlosejimenez.com/) (2023- , Princeton PhD) <br>
 [John Yang](https://john-b-yang.github.io/) (2023- , Princeton MSc/RA -> Stanford PhD) <br>
