@@ -1,4 +1,4 @@
-d---
+---
 layout: page
 title: 
 permalink: /about/
