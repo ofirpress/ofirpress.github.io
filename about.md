@@ -64,7 +64,8 @@ My brother [Ori Press](https://oripress.com/) is a machine learning researcher.
 
 ### Contact Me
 
-[ofirp@princeton.edu](mailto:ofirp@princeton.edu)
+[ofirp@princeton.edu](mailto:ofirp@cs.washington.edu) 
+(Yes, I'm not affiliated with UWashington anymore but I still use this email cause I get to keep it for life. This isn't out of date :)
 <br>
 [@ofirpress on Twitter](https://twitter.com/OfirPress)
 
