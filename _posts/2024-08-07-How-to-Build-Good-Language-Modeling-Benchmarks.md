@@ -83,7 +83,7 @@ Benchmarks are great because they provide a lot of room for creativity, and they
 
 ### Summary
 
-Here are some questions to think about while your designing a new benchmark:
+Here are some questions to think about while you're designing a new benchmark:
 1. A benchmark is a collection of tasks, where each task is made up of <request, environment, stopping criteria, scorer> 4-tuples.
 <br> &nbsp;&nbsp;&nbsp;&nbsp;
 A. The **request** is what you want the model to actually do, i.e. in SWE-bench it would be "Fix this issue " + issue_text.
