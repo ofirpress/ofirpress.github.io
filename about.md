@@ -4,11 +4,30 @@ title:
 permalink: /about/
 ---
 
-I am a postdoc at Princeton University's [PLI](https://pli.princeton.edu/). My aim is to develop language model systems that can autonomously complete tasks end-to-end, including software engineering, optimizing code runtime and finding cybersecurity vulnerabilities. My main focus area is coding, since I believe that it's currently the most important and challenging area in AI, but I occasionally do research in other areas, including complex question answering. <br>
+I'm Ofir and I push the frontier of AI capabilities by working with amazing people to develop new benchmarks. 
+<br>
+Our recent benchmarks:
+1. [SWE-bench](swebench.com) - SWE-bench is used by OpenAI, Anthropic, Google, NVIDIA, Meta, Apple, Amazon, Microsoft and others.
+2. [SWE-bench Multilingual](https://www.swebench.com/multilingual-leaderboard.html) - Used by Anthropic, DeepSeek, Alibaba Qwen, Z.ai, Minimax, ByteDance and others.
+3. SWE-bench Multimodal - open source release coming soon (April 2026?)
+4. [SciCode](https://scicode-bench.github.io/) - Used by Google, Inception Labs, Kimi, NVIDIA, by ArtificialAnalysis as part of the 10 benchmarks on their AI Index, and by others. 
+5. [CritPt](https://critpt.com/) - Used by ArtificialAnalysis as part of the 10 benchmarks on their AI Index, and by others. 
+6. [AlgoTune](https://algotune.io/) - New
+7. [VideoGameBench](https://videogamebench.com/) - New
+8. [SWE-fficiency](https://swefficiency.com/) - New
+9. [CodeClash](https://codeclash.ai/) - New
+
+We also sometimes build agents like [mini-swe-agent](https://github.com/SWE-agent/mini-SWE-agent) and synthetic data generation methods like [SWE-smith](https://swesmith.com/). 
+
+
+<!-- My aim is to develop language model systems that can autonomously complete tasks end-to-end, including software engineering, optimizing code runtime and finding cybersecurity vulnerabilities. My main focus area is coding, since I believe that it's currently the most important and challenging area in AI, but I occasionally do research in other areas, including complex question answering. <br>
 I'm working towards this goal by doing the following 3 things:<br>
 1) Building frontier-pushing benchmarks for LM systems (i.e. [SWE-bench (software engineering)](http://swe-bench.com), [SciCode (PhD-level physics coding)](https://scicode-bench.github.io/), [AlgoTune (software runtime optimization)](https://algotune.io/)) <br>
 2) Developing LM-based agents to help frontier LMs do better on these benchmarks (i.e. [SWE-agent](https://swe-agent.com)) <br>
-3) Developing synthetic data pipelines and finetuning methods to help small LMs do better on these benchmarks (i.e. [SWE-smith](https://swesmith.com/)) <br>
+3) Developing synthetic data pipelines and finetuning methods to help small LMs do better on these benchmarks (i.e. [SWE-smith](https://swesmith.com/)) 
+
+-->
+<br>
 
 <div class="imgcap">
 <img src="/images/me.jpeg" style="width: 33%; height: 33%">
@@ -21,20 +40,21 @@ Check out my [YouTube channel](https://www.youtube.com/@ofirpress/videos) for vi
 
 
 ##### Mentees: 
-During my PhD and Postdoc I've collaborated with over 30 **amazing** undergrad, masters, and PhD students. This list contains collaborators that have worked with me on more than a single project. 
+I've collaborated with over 30 **amazing** undergrad, masters, and PhD students. This list contains collaborators that have worked with me on more than a single project. 
 <br> <!--33-->
 
 [Carlos Jimenez](https://www.carlosejimenez.com/) (2023- , Princeton PhD) <br>
 [John Yang](https://john-b-yang.github.io/) (2023- , Princeton MSc/RA -> Stanford PhD) <br>
 [Kilian Lieret](https://www.lieret.net/) (2023- , Princeton RE) <br>
-[Ori Press](https://oripress.com/) (2024-, University of Tübingen PhD) <br>
-[Minyang Tian](https://www.linkedin.com/in/minyang-tian/) (2024-, UIUC PhD) <br>
-[Alex L. Zhang](https://alexzhang13.github.io/) (2024-, Princeton Undergrad) <br>
+[Jeff Ma](https://18jeffreyma.github.io/) (2025- , Harvard PhD) <br>
+[Ori Press](https://oripress.com/) (2024-2025, University of Tübingen PhD) <br>
+[Minyang Tian](https://www.linkedin.com/in/minyang-tian/) (2024-2025, UIUC PhD) <br>
+[Alex L. Zhang](https://alexzhang13.github.io/) (2024-2025, Princeton Undergrad) <br>
 [Talor Abramovich](https://www.linkedin.com/in/talor-abramovich-492a01214?originalSubdomain=il) (2024-2024, Tel-Aviv University MSc) <br>
 [Muru Zhang](https://nanami18.github.io/) (2022-2023, University of Washington MSc) <br> 
 
 ##### People I've Worked With
-During my postdoc I work with [Karthik Narasimhan's](https://www.cs.princeton.edu/~karthikn/) group at Princeton University. 
+During my postdoc I worked with [Karthik Narasimhan's](https://www.cs.princeton.edu/~karthikn/) group at Princeton University. 
 
 I completed my PhD at the Paul G. Allen School for Computer Science & Engineering at the University of Washington, where I was very fortunate to be advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/). For the last year of my PhD I was also a visiting scholar at [Kyunghyun Cho's](https://kyunghyuncho.me/) group at NYU. 
 
