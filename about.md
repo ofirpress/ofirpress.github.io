@@ -47,7 +47,7 @@ I've collaborated with over 30 **amazing** undergrad, masters, and PhD students.
 [John Yang](https://john-b-yang.github.io/) (2023- , Princeton MSc/RA -> Stanford PhD) <br>
 [Kilian Lieret](https://www.lieret.net/) (2023- , Princeton RE) <br>
 [Jeff Ma](https://18jeffreyma.github.io/) (2025- , Harvard PhD) <br>
-[Ori Press](https://oripress.com/) (2024-2025, University of Tübingen PhD) <br>
+[Ori Press](https://oripress.com/) (2024-2025, University of Tübingen PhD) AKA my brother <br>
 [Minyang Tian](https://www.linkedin.com/in/minyang-tian/) (2024-2025, UIUC PhD) <br>
 [Alex L. Zhang](https://alexzhang13.github.io/) (2024-2025, Princeton Undergrad) <br>
 [Talor Abramovich](https://www.linkedin.com/in/talor-abramovich-492a01214?originalSubdomain=il) (2024-2024, Tel-Aviv University MSc) <br>
