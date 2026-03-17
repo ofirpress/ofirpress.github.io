@@ -78,4 +78,24 @@ Building a benchmark that would be **hard to leak into the training data** is so
 
 Benchmarks are great because they provide a lot of room for creativity, and they can be super impactful in guiding the community towards the future. I hope this post helps you in building the next big LM benchmark. And always remember- rules are meant to be broken. I do not think that a benchmark that does not follow all of these rules is bad. I just think that these guidelines are a good indicator for whether you're on the right path or not. 
 
-  
+
+
+
+### Summary
+
+Here are some questions to think about while your designing a new benchmark:
+1. A benchmark is a collection of tasks, where each task is made up of <request, environment, stopping criteria, scorer> 4-tuples.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;
+A. The **request** is what you want the model to actually do, i.e. in SWE-bench it would be "Fix this issue " + issue_text.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;
+B. The **environment** is a total description of the environment that the agent will act in while solving your request. Is internet access allowed? What dependencies are installed and which ones are not? Are there any special tools you will be providing the agent with?
+<br> &nbsp;&nbsp;&nbsp;&nbsp;
+C. The **stopping criteria** is how you decide when to end an agent's run. For some tasks the agent will probably issue a 'submit' command and exit but you need to decide how to act when that never happens. Are you going to have a turn limit per task? A cost limit? A walltime limit? A combination of these? All answers are viable, you just need to decide.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;
+D. The **scorer** takes the environment as it was when the agent exited and scores it. Will you build a binary pass/fail benchmark, like we did in SWE-bench with the fail2pass and pass2pass tests? Or will you build a benchmark with a continuous score, like we did in AlgoTune, where we ask agents to speed up computer programs, and the score per task is the agent's code total runtime divided by our baseline's total runtime. Or will you use ELO like we did in CodeClash? There are many possiblities here.
+
+2. What is the baseline scaffolding that you will use and how similar is it to the best scaffolding in common use right now? For example, if you're asking coding questions, and your scaffolding doesn't allow for code execution, that's not a very good representation of reality. If you're asking knowledge questions and don't allow access to the internet, that's not realistic. Try to make your scaffolding as close as good as you can. This frequently doesn't take much effort as people think. mini-SWE-agent is able to get very competitive scores (and sometimes even surpass) Claude Code these days, even though it is orders of magnitude simpler. I talk a lot about how much easier it is to sell a benchmark that is realistic, and part of that is making the tasks realistic, but you should also make your baseline scaffolding realistic, otherwise people will mistrust your results.
+
+Benchmarks are what moves the frontier of AI forward, there isn't anything more important than building good new benchmarks. Good luck!
+
+
