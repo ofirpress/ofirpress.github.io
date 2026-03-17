@@ -17,7 +17,7 @@ Our recent benchmarks:
 8. [SWE-fficiency](https://swefficiency.com/) - New
 9. [CodeClash](https://codeclash.ai/) - New
 
-We also sometimes build agents like [mini-swe-agent](https://github.com/SWE-agent/mini-SWE-agent) and synthetic data generation methods like [SWE-smith](https://swesmith.com/). 
+We also sometimes build agents like [mini-SWE-agent](https://github.com/SWE-agent/mini-SWE-agent) and synthetic data generation methods like [SWE-smith](https://swesmith.com/). 
 
 
 <!-- My aim is to develop language model systems that can autonomously complete tasks end-to-end, including software engineering, optimizing code runtime and finding cybersecurity vulnerabilities. My main focus area is coding, since I believe that it's currently the most important and challenging area in AI, but I occasionally do research in other areas, including complex question answering. <br>
