@@ -11,11 +11,12 @@ Our recent benchmarks:
 2. [SWE-bench Multilingual](https://www.swebench.com/multilingual-leaderboard.html) - Used by Anthropic, DeepSeek, Alibaba Qwen, Z.ai, Minimax, ByteDance and others.
 3. SWE-bench Multimodal - open source release coming soon (April 2026?)
 4. [SciCode](https://scicode-bench.github.io/) - Used by Google, Inception Labs, Kimi, NVIDIA, by ArtificialAnalysis as part of the 10 benchmarks on their AI Index, and by others. 
-5. [CritPt](https://critpt.com/) - Used by [Greg Brockman once on Twitter](https://x.com/gdb/status/2030537511030915074?s=46), ArtificialAnalysis as part of the 10 benchmarks on their AI Index, and by others. 
-6. [AlgoTune](https://algotune.io/) - New
-7. [VideoGameBench](https://videogamebench.com/) - New
-8. [SWE-fficiency](https://swefficiency.com/) - New
-9. [CodeClash](https://codeclash.ai/) - New
+5. [CritPt](https://critpt.com/) - Used by [Greg Brockman once on Twitter](https://x.com/gdb/status/2030537511030915074?s=46), ArtificialAnalysis as part of the 10 benchmarks on their AI Index, and by others.
+6. [AssistantBench](https://assistantbench.github.io/) - Used by ServiceNow, Microsoft, and others. 
+7. [AlgoTune](https://algotune.io/) - New
+8. [VideoGameBench](https://videogamebench.com/) - New
+9. [SWE-fficiency](https://swefficiency.com/) - New
+10. [CodeClash](https://codeclash.ai/) - New
 
 We also sometimes build agents like [mini-SWE-agent](https://github.com/SWE-agent/mini-SWE-agent) and synthetic data generation methods like [SWE-smith](https://swesmith.com/). 
 
