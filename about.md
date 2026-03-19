@@ -8,7 +8,7 @@ I'm Ofir and I push the frontier of AI capabilities by working with amazing peop
 <br>
 Our recent benchmarks:
 1. [SWE-bench](swebench.com) - SWE-bench is used by OpenAI, Anthropic, Google, NVIDIA, Meta, Apple, Amazon, Microsoft and others.
-2. [SWE-bench Multilingual](https://www.swebench.com/multilingual-leaderboard.html) - Used by Anthropic, DeepSeek, Alibaba Qwen, Z.ai, Minimax, ByteDance and others.
+2. [SWE-bench Multilingual](https://www.swebench.com/multilingual-leaderboard.html) - Used by Anthropic, [Cursor](https://cursor.com/blog/composer-2), DeepSeek, Alibaba Qwen, Z.ai, Minimax, ByteDance and others.
 3. SWE-bench Multimodal - open source release coming soon (April 2026?)
 4. [SciCode](https://scicode-bench.github.io/) - Used by Google, Inception Labs, Kimi, NVIDIA, by ArtificialAnalysis as part of the 10 benchmarks on their AI Index, and by others. 
 5. [CritPt](https://critpt.com/) - Used by [Greg Brockman once on Twitter](https://x.com/gdb/status/2030537511030915074?s=46), ArtificialAnalysis as part of the 10 benchmarks on their AI Index, and by others.
