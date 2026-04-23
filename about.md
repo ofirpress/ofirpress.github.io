@@ -10,8 +10,8 @@ Our recent benchmarks:
 1. [SWE-bench](swebench.com) - SWE-bench is used by OpenAI, Anthropic, Google, NVIDIA, Meta, Apple, Amazon, Microsoft and others. It was referenced by a [report written by the White House](https://www.whitehouse.gov/wp-content/uploads/2026/01/Artificial-Intelligence-and-the-Great-Divergence-5.pdf) and in Wired, The Information, TechCrunch and other news sources. SWE-bench has been [downloaded more than 20 million times](https://clickpy.clickhouse.com/dashboard/swebench).
 2. [SWE-bench Multilingual](https://www.swebench.com/multilingual-leaderboard.html) - Used by Anthropic, [Cursor](https://cursor.com/blog/composer-2), DeepSeek, Alibaba Qwen, Z.ai, Minimax, ByteDance and others.
 3. SWE-bench Multimodal - open source release coming soon (April 2026?)
-4. [SciCode](https://scicode-bench.github.io/) - Used by Google, Inception Labs, Kimi, NVIDIA, by ArtificialAnalysis as part of the 10 benchmarks on their AI Index, and by others. 
-5. [CritPt](https://critpt.com/) - Used by [Greg Brockman once on Twitter](https://x.com/gdb/status/2030537511030915074?s=46), ArtificialAnalysis as part of the 10 benchmarks on their AI Index, and by others.
+4. [SciCode](https://scicode-bench.github.io/) - Used by [OpenAI](https://openai.com/index/introducing-gpt-5-5/), Google, Inception Labs, Kimi, NVIDIA, by ArtificialAnalysis as part of the 10 benchmarks on their AI Index, and by others. 
+5. [CritPt](https://critpt.com/) - Used by [Greg Brockman once on Twitter](https://x.com/gdb/status/2030537511030915074?s=46), ArtificialAnalysis as part of the 10 benchmarks on their AI Index, by [OpenAI](https://openai.com/index/introducing-gpt-5-5/) and by others.
 6. [AssistantBench](https://assistantbench.github.io/) - Used by ServiceNow, Microsoft, and others.
 7. [VideoGameBench](https://videogamebench.com/) - Used by [Antim Labs](https://www.antimlabs.com/vgbench)
 8. [SWE-fficiency](https://swefficiency.com/) - Used internally at multiple frontier labs. 
