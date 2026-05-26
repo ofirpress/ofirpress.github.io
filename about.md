@@ -85,13 +85,12 @@ In the final paper of my PhD we showed how to improve the ability of LMs to answ
 
 My brother [Ori Press](https://oripress.com/) is a machine learning researcher. 
 
-### Contact Me
+### Social Media
 
-[ofirp@cs.washington.edu](mailto:ofirp@cs.washington.edu) 
-(Yes, I'm not affiliated with UWashington anymore but I still use this email cause I get to keep it for life. This isn't out of date :)
+[My Twitter](https://twitter.com/OfirPress)
 <br>
-[@ofirpress on Twitter](https://twitter.com/OfirPress)
-
+[My LinkedIn](https://www.linkedin.com/in/ofirp/)
+<br>
 
 
 ### Selected Works ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Ofir-Press/40170001))
