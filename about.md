@@ -92,6 +92,7 @@ My brother [Ori Press](https://oripress.com/) is a machine learning researcher.
 [My LinkedIn](https://www.linkedin.com/in/ofirp/)
 <br>
 
+Note: I can't currently issue arXiv endorsements, sorry.
 
 ### Selected Works ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Ofir-Press/40170001))
 
