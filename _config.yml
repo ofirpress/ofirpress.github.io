@@ -20,7 +20,7 @@ avatar: https://ofir.io/images/logo.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: ofirp@cs.washington.edu
+  email: 
   facebook:
   flickr:
   github: #ofirpress
@@ -28,7 +28,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: #rss
-  twitter: ofirpress
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
