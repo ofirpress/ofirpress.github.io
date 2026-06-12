@@ -70,9 +70,13 @@ Building a benchmark that would be **hard to leak into the training data** is so
     When you write the analysis section in your paper about your benchmark, it’s totally fine to present other metrics for each model, or to break down performance by category, but you should only do that there, and not have the categories or other metrics when you generally talk about the benchmark.
     
 2.  When you write a paper, always **include very strong baselines**, both based on strong proprietary models and on leading open source models. You should never try to make your benchmark look more impressive than it actually is by including only weak baselines, or baseline systems that use old or outdated models like GPT 3.5 or Llama 3 7B.
+
+3. How many tasks should your benchmark have? I think a good minimum is to have at least 150 tasks in a benchmark. But defining a 'task' is hard, a benchmark that has 50 'tasks' which each have 10 subtasks, could also work. Aim for 300-500 tasks so that your benchmark has more statistical power. In my experience, having more tasks than that doesn't really help. I would also use the 500 task point as an upper limit, because having more tasks means it could take a very long time to run your benchmark, which could be a big downside for adoption.
+
     
-3.  Benchmarks typically get saturated within a year. And so when you build a benchmark, I don’t think it’s important to worry about questions like “Will this still be an interesting question in five years?”. Deep learning moves incredibly quickly, and there’s no way to predict where we’ll be in more than a year. For this reason, it’s also OK to have benchmarks that ask questions that will probably have totally different answers in a year or two, such as “Which yoga studios near Bushwick in NYC have a Vinyasa class before 7AM?”.
-    
+4.  Benchmarks typically get saturated within a year. And so when you build a benchmark, I don’t think it’s important to worry about questions like “Will this still be an interesting question in five years?”. Deep learning moves incredibly quickly, and there’s no way to predict where we’ll be in more than a year. For this reason, it’s also OK to have benchmarks that ask questions that will probably have totally different answers in a year or two, such as “Which yoga studios near Bushwick in NYC have a Vinyasa class before 7AM?”.
+
+
 
   
 
@@ -81,7 +85,7 @@ Benchmarks are great because they provide a lot of room for creativity, and they
 
 
 
-### Summary
+### Concluding Thoughts
 
 Here are some questions to think about while you're designing a new benchmark:
 1. A benchmark is a collection of tasks, where each task is made up of <request, environment, stopping criteria, scorer> 4-tuples.
@@ -95,6 +99,7 @@ C. The **stopping criteria** is how you decide when to end an agent's run. For s
 D. The **scorer** takes the environment as it was when the agent exited and scores it. Will you build a binary pass/fail benchmark, like we did in SWE-bench with the fail2pass and pass2pass tests? Or will you build a benchmark with a continuous score, like we did in AlgoTune, where we ask agents to speed up computer programs, and the score per task is the agent's code total runtime divided by our baseline's total runtime. Or will you use ELO like we did in CodeClash? There are many possiblities here.
 
 2. What is the baseline scaffolding that you will use and how similar is it to the best scaffolding in common use right now? For example, if you're asking coding questions, and your scaffolding doesn't allow for code execution, that's not a very good representation of reality. If you're asking knowledge questions and don't allow access to the internet, that's not realistic. Try to make your scaffolding as close as good as you can. This frequently doesn't take much effort as people think. mini-SWE-agent is able to get very competitive scores (and sometimes even surpass) Claude Code these days, even though it is orders of magnitude simpler. I talk a lot about how much easier it is to sell a benchmark that is realistic, and part of that is making the tasks realistic, but you should also make your baseline scaffolding realistic, otherwise people will mistrust your results.
+
 
 Benchmarks are what moves the frontier of AI forward, there isn't anything more important than building good new benchmarks. Good luck!
 
