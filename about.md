@@ -8,15 +8,15 @@ I'm Ofir and I push the frontier of AI capabilities by working with amazing peop
 <br>
 Our recent benchmarks:
 
-0. [ProgramBench](https://programbench.com) - New
+0. [ProgramBench](https://programbench.com) - ProgramBench is used by [Anthropic in Fable 5](https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf). 
 1. [SWE-bench](swebench.com) - SWE-bench is used by OpenAI, Anthropic, Google, NVIDIA, Meta, Apple, Amazon, Microsoft and others. It was referenced by a [report written by the White House](https://www.whitehouse.gov/wp-content/uploads/2026/01/Artificial-Intelligence-and-the-Great-Divergence-5.pdf) and in Wired, The Information, TechCrunch and other news sources. SWE-bench has been [downloaded more than 20 million times](https://clickpy.clickhouse.com/dashboard/swebench).
 2. [SWE-bench Multilingual](https://www.swebench.com/multilingual-leaderboard.html) - Used by Anthropic, [Cursor](https://cursor.com/blog/composer-2), DeepSeek, Alibaba Qwen, Z.ai, Minimax, ByteDance and others.
 3. SWE-bench Multimodal - open source release coming soon (April 2026?)
 4. [SciCode](https://scicode-bench.github.io/) - Used by [OpenAI](https://openai.com/index/introducing-gpt-5-5/), Google, Inception Labs, Kimi, NVIDIA, by ArtificialAnalysis as part of the 10 benchmarks on their AI Index, and by others. 
 5. [CritPt](https://critpt.com/) - Used by [Greg Brockman once on Twitter](https://x.com/gdb/status/2030537511030915074?s=46), memed by [Sam Altman Once on Twitter](https://x.com/sama/status/2050675509114405214?s=46), used by ArtificialAnalysis as part of the 10 benchmarks on their AI Index, used by [OpenAI](https://openai.com/index/introducing-gpt-5-5/) and by others.
-6. [AssistantBench](https://assistantbench.github.io/) - Used by ServiceNow, Microsoft, and others.
-7. [VideoGameBench](https://videogamebench.com/) - Used by [Antim Labs](https://www.antimlabs.com/vgbench)
-8. [SWE-fficiency](https://swefficiency.com/) - Used internally at multiple frontier labs. 
+6. [SWE-fficiency](https://swefficiency.com/) - Used internally at multiple frontier labs. 
+7. [AssistantBench](https://assistantbench.github.io/) - Used by ServiceNow, Microsoft, and others.
+8. [VideoGameBench](https://videogamebench.com/) - Used by [Antim Labs](https://www.antimlabs.com/vgbench)
 9. [AlgoTune](https://algotune.io/) - New
 10. [CodeClash](https://codeclash.ai/) - New
 
