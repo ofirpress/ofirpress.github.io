@@ -91,7 +91,7 @@ My brother [Ori Press](https://oripress.com/) is a machine learning researcher.
 <br>
 
 ### Selected Works ([Google Scholar](https://scholar.google.com/citations?user=LeHa8psAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Ofir-Press/40170001))
-
+I stopped updating this list in 2025, please check my Scholar links for an updated publication list.
 
 [AlgoTune: Can Language Models Speed Up General-Purpose Numerical Programs?](https://algotune.io/) <br>
 Ori Press, Brandon Amos, Haoyu Zhao, Yikai Wu, Samuel Ainsworth, Dominik Krupke, Patrick Kidger, Touqir Sajed, Bartolomeo Stellato, Jisun Park, Nathanael Bosch, Eli Meril, Albert Steppi, Arman Zharmagambetov, Fangzhao Zhang, David Pérez-Piñeiro, Alberto Mercurio, Ni Zhan, Talor Abramovich, Kilian Lieret, Hanlin Zhang, Shirley Huang, Matthias Bethge, **Ofir Press** <br>
