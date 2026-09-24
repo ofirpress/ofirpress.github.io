@@ -36,9 +36,6 @@ I'm working towards this goal by doing the following 3 things:<br>
 <img src="/images/me.jpg" style="width: 55%; height: 55%">
 </div>
 
-Our SWE-bench, which tests AI systems ability to solve real software issues from popular GitHub repositories, has [been downloaded more than 2 million times](https://pepy.tech/projects/swebench?timeRange=threeMonths&category=version&includeCIDownloads=true&granularity=daily&viewType=chart&versions=2.1.7%2C2.1.6%2C2.1.5), and there are teams at OpenAI, Meta, Google, Anthropic and many other academic & industry groups that develop systems for SWE-bench. 
-Our SWE-agent was the first open-source agent to beat the 10% accuracy threshold on SWE-bench, and is used by mutliple academic and industry teams, including at [Google](https://arxiv.org/abs/2501.07531), [Anthropic](https://www.anthropic.com/research/swe-bench-sonnet), [Meta](https://arxiv.org/abs/2502.14499), [The Allen Institute for AI](https://arxiv.org/abs/2409.07440), [ETH Zurich](https://arxiv.org/abs/2406.12952) and others. 
-
 Check out my [YouTube channel](https://www.youtube.com/@ofirpress/videos) for videos that explain my research and language modeling in general. 
 
 
