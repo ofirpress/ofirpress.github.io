@@ -33,7 +33,7 @@ I'm working towards this goal by doing the following 3 things:<br>
 <br>
 
 <div class="imgcap">
-<img src="/images/me.jpg" style="width: 33%; height: 33%">
+<img src="/images/me.jpg" style="width: 55%; height: 55%">
 </div>
 
 Our SWE-bench, which tests AI systems ability to solve real software issues from popular GitHub repositories, has [been downloaded more than 2 million times](https://pepy.tech/projects/swebench?timeRange=threeMonths&category=version&includeCIDownloads=true&granularity=daily&viewType=chart&versions=2.1.7%2C2.1.6%2C2.1.5), and there are teams at OpenAI, Meta, Google, Anthropic and many other academic & industry groups that develop systems for SWE-bench. 
