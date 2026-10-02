@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-I'm Ofir and I push the frontier of AI capabilities by working with amazing people to develop new benchmarks. 
+I'm Ofir and I push the frontier of AI capabilities by developing new benchmarks. I lead the code benchmarks team at FAIR.
 <br>
 Our recent benchmarks:
 
