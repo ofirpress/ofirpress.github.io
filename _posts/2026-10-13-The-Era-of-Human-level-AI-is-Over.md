@@ -1,5 +1,7 @@
-**The Era of Human-level AI is Over (in some sub-domains)**  
-Ofir Press
+---
+layout: post
+title: The Era of Human-level AI is Over (in some sub-domains)
+---
 
 It used to be that when you showed someone a new benchmark, you’d start off by telling them three things:
 
