@@ -8,7 +8,7 @@ I'm Ofir and I push the frontier of AI capabilities by developing new benchmarks
 <br>
 Our recent benchmarks:
 
-0. [ProgramBench](https://programbench.com) - ProgramBench is used by [Anthropic in Fable 5](https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf) and internally at multiple frontier and neo labs. 
+0. [ProgramBench](https://programbench.com) - ProgramBench is used by [Anthropic in Fable 5](https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf), [DeepSeek](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) and internally at multiple frontier and neo labs. 
 1. [SWE-bench](https://swebench.com) - SWE-bench is used by OpenAI, Anthropic, Google, NVIDIA, Meta, Apple, Amazon, Microsoft and others. It was referenced by a [report written by the White House](https://www.whitehouse.gov/wp-content/uploads/2026/01/Artificial-Intelligence-and-the-Great-Divergence-5.pdf) and in Wired, The Information, TechCrunch and other news sources. SWE-bench has been [downloaded more than 20 million times](https://clickpy.clickhouse.com/dashboard/swebench).
 2. [SWE-bench Multilingual](https://www.swebench.com/multilingual-leaderboard.html) - Used by Anthropic, [Cursor](https://cursor.com/blog/composer-2), DeepSeek, Alibaba Qwen, Z.ai, Minimax, ByteDance and others.
 3. SWE-bench Multimodal - Used by Anthropic and others. 
@@ -17,8 +17,8 @@ Our recent benchmarks:
 6. [SWE-fficiency](https://swefficiency.com/) - Used by [MiniMax](https://www.minimax.io/blog/minimax-m3) and internally at multiple frontier labs. 
 7. [AssistantBench](https://assistantbench.github.io/) - Used by ServiceNow, Microsoft, and others.
 8. [VideoGameBench](https://videogamebench.com/) - Used by [Antim Labs](https://www.antimlabs.com/vgbench)
-9. [AlgoTune](https://algotune.io/) - New
-10. [CodeClash](https://codeclash.ai/) - New
+9. [AlgoTune](https://algotune.io/) 
+10. [CodeClash](https://codeclash.ai/) 
 
 We also sometimes build agents like [mini-SWE-agent](https://github.com/SWE-agent/mini-SWE-agent) and synthetic data generation methods like [SWE-smith](https://swesmith.com/). 
 
